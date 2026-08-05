@@ -16,7 +16,7 @@ import os
 import sys
 import time
 import logging
-from datetime import datetime
+from datetime import datetime, timezone
 
 # Ensure project root is on the path so config/ and sibling modules resolve
 PROJECT_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -47,7 +47,7 @@ def run_step(step_name: str, step_fn):
 
 def main():
     logger.info("=" * 60)
-    logger.info(f"Scheduler run started at {datetime.utcnow().isoformat()}Z")
+    logger.info(f"Scheduler run started at {datetime.now(timezone.utc).isoformat()}")
     logger.info("=" * 60)
 
     # Lazy imports so that any import-time errors are caught per-step
