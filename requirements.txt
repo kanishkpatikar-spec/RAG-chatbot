@@ -1,0 +1,11 @@
+requests
+beautifulsoup4
+langchain
+langchain-community
+langchain-groq
+chromadb
+sentence-transformers
+fastapi
+uvicorn
+pydantic
+python-dotenv

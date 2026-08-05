@@ -1,0 +1,409 @@
+<!DOCTYPE html>
+
+<html class="dark" lang="en"><head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>Groww Mutual Fund Assistant</title>
+<script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&amp;display=swap" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet"/>
+<script id="tailwind-config">
+        tailwind.config = {
+            darkMode: "class",
+            theme: {
+                extend: {
+                    "colors": {
+                        "on-primary": "#003828",
+                        "on-error": "#690005",
+                        "outline-variant": "#3c4a43",
+                        "on-secondary-fixed-variant": "#404758",
+                        "on-primary-container": "#00533c",
+                        "on-surface": "#e1e3e4",
+                        "on-secondary": "#293040",
+                        "surface-container": "#1d2021",
+                        "primary": "#44edb7",
+                        "surface-container-lowest": "#0c0f10",
+                        "surface-container-low": "#191c1d",
+                        "tertiary-container": "#ffa15b",
+                        "outline": "#85948c",
+                        "on-tertiary": "#502500",
+                        "surface-container-high": "#282a2b",
+                        "on-primary-fixed": "#002116",
+                        "surface": "#111415",
+                        "inverse-on-surface": "#2e3132",
+                        "secondary-container": "#404758",
+                        "primary-fixed-dim": "#2fe0aa",
+                        "on-background": "#e1e3e4",
+                        "primary-container": "#00d09c",
+                        "on-primary-fixed-variant": "#00513b",
+                        "secondary-fixed-dim": "#c0c6db",
+                        "surface-variant": "#323536",
+                        "tertiary-fixed": "#ffdcc6",
+                        "surface-bright": "#373a3b",
+                        "background": "#111415",
+                        "surface-dim": "#111415",
+                        "on-error-container": "#ffdad6",
+                        "secondary": "#c0c6db",
+                        "on-surface-variant": "#bacac1",
+                        "on-tertiary-fixed": "#301400",
+                        "secondary-fixed": "#dce2f7",
+                        "on-tertiary-container": "#733800",
+                        "on-secondary-fixed": "#141b2b",
+                        "inverse-primary": "#006c4f",
+                        "surface-tint": "#2fe0aa",
+                        "error": "#ffb4ab",
+                        "on-secondary-container": "#aeb5c9",
+                        "error-container": "#93000a",
+                        "tertiary": "#ffc8a3",
+                        "surface-container-highest": "#323536",
+                        "on-tertiary-fixed-variant": "#713700",
+                        "tertiary-fixed-dim": "#ffb785",
+                        "primary-fixed": "#59fdc5",
+                        "inverse-surface": "#e1e3e4"
+                    },
+                    "borderRadius": {
+                        "DEFAULT": "0.25rem",
+                        "lg": "0.5rem",
+                        "xl": "0.75rem",
+                        "full": "9999px"
+                    },
+                    "spacing": {
+                        "max-width": "1200px",
+                        "gutter": "20px",
+                        "margin-desktop": "32px",
+                        "md": "24px",
+                        "xl": "64px",
+                        "lg": "40px",
+                        "base": "4px",
+                        "xs": "8px",
+                        "margin-mobile": "16px",
+                        "sm": "16px"
+                    },
+                    "fontFamily": {
+                        "label-caps": ["Inter"],
+                        "body-lg": ["Inter"],
+                        "headline-lg-mobile": ["Inter"],
+                        "headline-lg": ["Inter"],
+                        "display": ["Inter"],
+                        "body-sm": ["Inter"],
+                        "title-md": ["Inter"],
+                        "mono-data": ["Inter"]
+                    },
+                    "fontSize": {
+                        "label-caps": ["12px", { "lineHeight": "16px", "letterSpacing": "0.05em", "fontWeight": "600" }],
+                        "body-lg": ["16px", { "lineHeight": "24px", "fontWeight": "400" }],
+                        "headline-lg-mobile": ["24px", { "lineHeight": "32px", "fontWeight": "600" }],
+                        "headline-lg": ["32px", { "lineHeight": "40px", "letterSpacing": "-0.01em", "fontWeight": "600" }],
+                        "display": ["48px", { "lineHeight": "56px", "letterSpacing": "-0.02em", "fontWeight": "700" }],
+                        "body-sm": ["14px", { "lineHeight": "20px", "fontWeight": "400" }],
+                        "title-md": ["20px", { "lineHeight": "28px", "fontWeight": "600" }],
+                        "mono-data": ["14px", { "lineHeight": "20px", "letterSpacing": "-0.01em", "fontWeight": "500" }]
+                    }
+                }
+            }
+        }
+    </script>
+<style>
+        /* Pulse Animation for typing indicator */
+        @keyframes pulse-ring {
+            0% { transform: scale(0.8); opacity: 0.5; }
+            50% { transform: scale(1.2); opacity: 1; }
+            100% { transform: scale(0.8); opacity: 0.5; }
+        }
+        .typing-indicator span {
+            display: inline-block;
+            width: 8px;
+            height: 8px;
+            background-color: theme('colors.primary');
+            border-radius: 50%;
+            margin: 0 2px;
+            animation: pulse-ring 1.4s infinite ease-in-out both;
+        }
+        .typing-indicator span:nth-child(1) { animation-delay: -0.32s; }
+        .typing-indicator span:nth-child(2) { animation-delay: -0.16s; }
+        
+        /* Markdown Styles */
+        .prose strong { color: theme('colors.primary'); font-weight: 600; }
+        .prose a { color: theme('colors.primary-fixed-dim'); text-decoration: underline; }
+        .prose p { margin-bottom: 0.5em; }
+        .prose p:last-child { margin-bottom: 0; }
+        
+        /* Custom Scrollbar for chat area */
+        ::-webkit-scrollbar { width: 6px; }
+        ::-webkit-scrollbar-track { background: transparent; }
+        ::-webkit-scrollbar-thumb { background: theme('colors.surface-variant'); border-radius: theme('borderRadius.full'); }
+        ::-webkit-scrollbar-thumb:hover { background: theme('colors.outline'); }
+    </style>
+</head>
+<body class="bg-background text-on-surface font-body-sm h-screen flex overflow-hidden">
+<!-- SideNavBar (Hidden on Mobile) -->
+<nav class="h-full w-64 hidden md:flex flex-col border-r border-outline-variant bg-surface-container-low dark:bg-surface-container-low text-primary dark:text-primary font-body-sm text-body-sm z-40 fixed left-0 top-0">
+<!-- Header -->
+<div class="p-md flex items-center gap-xs">
+<div class="w-10 h-10 rounded-full bg-surface-variant flex items-center justify-center overflow-hidden shrink-0 border border-outline-variant">
+<img class="w-full h-full object-cover" data-alt="A futuristic, minimalist robot avatar icon representing an expert AI strategist. The icon is rendered in sleek metallic teal and dark grey tones against a deep black background, conveying trust, intelligence, and modern financial technology." src="https://lh3.googleusercontent.com/aida-public/AB6AXuDzfW25deZHw2bOBwCmoyQVON33oY0fXBlcmsQRTdrvspXUko7vVCSY5f8m_llQrKyisCp1spRMNS1XSTMQR9dz27q1QHuraAmZq73eIC0CoS7eVNG2A6tJZcTa905Pc9cl3nFYEH7zJB-nRwh-W5RAjqNO40kV-PNXbQ-e1k6cvl1dZcinUrI3RxLoSR3vsAxG8IH4w3q7lke_FwmgrCe3txiABvcsVp9qM06eW20j4CjrZgqezvy7Ug"/>
+</div>
+<div>
+<h2 class="font-display text-title-md text-primary">Groww Assistant</h2>
+<p class="text-on-surface-variant text-label-caps uppercase">Expert Strategist</p>
+</div>
+</div>
+<!-- Navigation Links -->
+<div class="flex-1 px-sm py-4 flex flex-col gap-2">
+<!-- Active: Chat -->
+<a class="flex items-center gap-3 px-3 py-2 bg-secondary-container text-on-secondary-container rounded-lg group transition-colors" href="#">
+<span class="material-symbols-outlined group-hover:text-primary transition-colors">chat</span>
+<span class="font-title-md text-body-sm">Chat</span>
+</a>
+<!-- Inactive: History -->
+<a class="flex items-center gap-3 px-3 py-2 text-on-surface-variant hover:bg-surface-variant rounded-lg group transition-colors" href="#">
+<span class="material-symbols-outlined group-hover:text-primary transition-colors">history</span>
+<span class="font-title-md text-body-sm">History</span>
+</a>
+<!-- Inactive: Funds -->
+<a class="flex items-center gap-3 px-3 py-2 text-on-surface-variant hover:bg-surface-variant rounded-lg group transition-colors" href="#">
+<span class="material-symbols-outlined group-hover:text-primary transition-colors">analytics</span>
+<span class="font-title-md text-body-sm">Funds</span>
+</a>
+<!-- Inactive: Settings -->
+<a class="flex items-center gap-3 px-3 py-2 text-on-surface-variant hover:bg-surface-variant rounded-lg group transition-colors" href="#">
+<span class="material-symbols-outlined group-hover:text-primary transition-colors">settings</span>
+<span class="font-title-md text-body-sm">Settings</span>
+</a>
+</div>
+</nav>
+<!-- Main Content Area -->
+<div class="flex-1 flex flex-col md:ml-64 relative">
+<!-- TopAppBar -->
+<header class="flex justify-between items-center w-full px-margin-mobile md:px-margin-desktop h-16 bg-surface dark:bg-surface text-primary dark:text-primary border-b border-surface-container font-title-md text-title-md sticky top-0 z-30">
+<div class="flex items-center gap-sm">
+<!-- Mobile Menu Icon (Placeholder functionality) -->
+<button class="md:hidden p-2 text-on-surface-variant hover:text-primary transition-colors">
+<span class="material-symbols-outlined">menu</span>
+</button>
+<h1 class="font-display text-headline-lg-mobile md:text-headline-lg text-primary dark:text-primary">Groww Mutual Fund Assistant</h1>
+<span class="hidden sm:inline-flex items-center gap-1 px-2 py-1 bg-surface-container-high rounded-full border border-outline-variant font-label-caps text-label-caps text-on-surface-variant">
+<span class="material-symbols-outlined text-[14px]">verified</span>
+                    Facts Only
+                </span>
+</div>
+<div class="flex items-center gap-3 text-on-surface-variant hover:text-primary transition-colors cursor-pointer group">
+<!-- Trailing Actions -->
+<span class="material-symbols-outlined group-hover:opacity-80 transition-opacity">verified</span>
+</div>
+</header>
+<!-- Main Chat Canvas -->
+<main class="flex-1 overflow-y-auto w-full flex justify-center pb-[100px] bg-background">
+<!-- Container constrained to max-width for readability -->
+<div class="w-full max-w-[800px] px-margin-mobile md:px-0 py-lg flex flex-col gap-md" id="chat-container">
+<!-- Welcome Panel (Empty State) -->
+<div class="flex flex-col items-center justify-center h-full text-center mt-[10vh] transition-opacity duration-300" id="welcome-panel">
+<div class="w-16 h-16 bg-surface-container-highest rounded-2xl flex items-center justify-center mb-md border border-outline-variant">
+<span class="material-symbols-outlined text-4xl text-primary">robot_2</span>
+</div>
+<h2 class="font-headline-lg-mobile md:font-headline-lg text-headline-lg-mobile md:text-headline-lg text-on-surface mb-lg">Hi! Ask me anything about our mutual funds.</h2>
+<!-- Suggestion Cards (Bento-ish Grid) -->
+<div class="grid grid-cols-1 md:grid-cols-3 gap-sm w-full">
+<button class="flex flex-col items-start text-left p-sm bg-[#111827] border border-[#374151] rounded-xl hover:border-primary/50 hover:bg-surface-variant transition-all group" onclick="fillAndSubmit('What is the expense ratio of HDFC Mid-Cap Opportunities Fund?')">
+<span class="material-symbols-outlined text-primary mb-2 group-hover:scale-110 transition-transform">percent</span>
+<span class="font-body-sm text-body-sm text-on-surface">What is the expense ratio of HDFC Mid-Cap Opportunities Fund?</span>
+</button>
+<button class="flex flex-col items-start text-left p-sm bg-[#111827] border border-[#374151] rounded-xl hover:border-primary/50 hover:bg-surface-variant transition-all group" onclick="fillAndSubmit('What is the minimum SIP amount for Axis Small Cap?')">
+<span class="material-symbols-outlined text-primary mb-2 group-hover:scale-110 transition-transform">account_balance_wallet</span>
+<span class="font-body-sm text-body-sm text-on-surface">What is the minimum SIP amount for Axis Small Cap?</span>
+</button>
+<button class="flex flex-col items-start text-left p-sm bg-[#111827] border border-[#374151] rounded-xl hover:border-primary/50 hover:bg-surface-variant transition-all group" onclick="fillAndSubmit('Who is the fund manager for Nippon India Small Cap?')">
+<span class="material-symbols-outlined text-primary mb-2 group-hover:scale-110 transition-transform">person_search</span>
+<span class="font-body-sm text-body-sm text-on-surface">Who is the fund manager for Nippon India Small Cap?</span>
+</button>
+</div>
+</div>
+<!-- Chat History Area (Dynamically populated) -->
+<div class="hidden flex-col gap-lg w-full pb-xl" id="chat-history">
+<!-- Example Static Messages for Design Reference (Will be cleared on JS init, keeping for visual structure reference) -->
+</div>
+</div>
+</main>
+<!-- Input Area (Fixed Bottom) -->
+<div class="absolute bottom-0 left-0 w-full bg-[#111827]/80 backdrop-blur-md border-t border-outline-variant/30 flex flex-col items-center justify-center p-sm md:p-md z-20">
+<div class="w-full max-w-[800px] relative flex items-center bg-surface-container rounded-xl border border-[#374151] focus-within:border-primary focus-within:ring-1 focus-within:ring-primary transition-all">
+<input class="w-full bg-transparent text-on-surface font-body-lg text-body-lg placeholder-on-surface-variant border-none focus:ring-0 p-4 rounded-xl" id="chat-input" onkeypress="handleEnter(event)" placeholder="Ask about fund performance, managers, or SIPs..." type="text"/>
+<button class="absolute right-2 p-2 bg-primary text-on-primary rounded-lg hover:opacity-90 transition-opacity flex items-center justify-center" id="send-button" onclick="submitMessage()">
+<span class="material-symbols-outlined" style="font-variation-settings: 'FILL' 1;">send</span>
+</button>
+</div>
+<!-- Footer Disclaimer -->
+<footer class="mt-xs text-center flex flex-col items-center justify-center w-full px-4 pb-2 bg-transparent text-on-surface-variant font-body-sm text-body-sm">
+<p class="opacity-80 hover:text-primary transition-colors">Disclaimer: Facts-only. This bot does not provide investment advice.</p>
+<div class="flex gap-4 mt-1">
+<a class="hover:text-primary transition-colors" href="#">Terms</a>
+<a class="hover:text-primary transition-colors" href="#">Privacy</a>
+</div>
+</footer>
+</div>
+</div>
+<!-- JavaScript Logic -->
+<script>
+        const chatContainer = document.getElementById('chat-history');
+        const welcomePanel = document.getElementById('welcome-panel');
+        const inputField = document.getElementById('chat-input');
+        const sendButton = document.getElementById('send-button');
+        let isFirstMessage = true;
+
+        // Ensure chat history is empty on load
+        chatContainer.innerHTML = '';
+
+        function fillAndSubmit(text) {
+            inputField.value = text;
+            submitMessage();
+        }
+
+        function handleEnter(e) {
+            if (e.key === 'Enter') {
+                submitMessage();
+            }
+        }
+
+        function createMessageElement(text, isUser = false) {
+            const wrapper = document.createElement('div');
+            wrapper.className = `flex w-full ${isUser ? 'justify-end' : 'justify-start'} mb-md`;
+
+            const bubble = document.createElement('div');
+            // Design System: User = #1f2937 (surface-container-high approx), Assistant = #111827 border #374151
+            if (isUser) {
+                bubble.className = "max-w-[85%] md:max-w-[75%] p-4 rounded-2xl rounded-tr-none bg-[#1f2937] text-[#f9fafb] font-body-lg text-body-lg shadow-sm";
+                bubble.textContent = text;
+            } else {
+                bubble.className = "max-w-[85%] md:max-w-[75%] p-4 rounded-2xl rounded-tl-none bg-[#111827] border border-[#374151] text-[#f9fafb] font-body-lg text-body-lg shadow-sm prose prose-invert";
+                
+                // Basic Markdown parsing for bold and links
+                let formattedText = text.replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>');
+                formattedText = formattedText.replace(/\[(.*?)\]\((.*?)\)/g, '<a href="$2" target="_blank" rel="noopener noreferrer">$1</a>');
+                
+                bubble.innerHTML = formattedText;
+            }
+
+            // Add avatar for assistant
+            if (!isUser) {
+                const avatarDiv = document.createElement('div');
+                avatarDiv.className = "w-8 h-8 rounded-full bg-primary/20 flex items-center justify-center mr-3 mt-1 shrink-0 border border-primary/30";
+                avatarDiv.innerHTML = '<span class="material-symbols-outlined text-[18px] text-primary">robot_2</span>';
+                
+                const contentWrapper = document.createElement('div');
+                contentWrapper.className = "flex items-start max-w-full";
+                contentWrapper.appendChild(avatarDiv);
+                contentWrapper.appendChild(bubble);
+                wrapper.appendChild(contentWrapper);
+            } else {
+                wrapper.appendChild(bubble);
+            }
+
+            return wrapper;
+        }
+
+        function createTypingIndicator() {
+            const wrapper = document.createElement('div');
+            wrapper.className = "flex w-full justify-start mb-md"
+            wrapper.id = "typing-indicator";
+            
+            const avatarDiv = document.createElement('div');
+            avatarDiv.className = "w-8 h-8 rounded-full bg-primary/20 flex items-center justify-center mr-3 shrink-0 border border-primary/30";
+            avatarDiv.innerHTML = '<span class="material-symbols-outlined text-[18px] text-primary">robot_2</span>';
+
+            const bubble = document.createElement('div');
+            bubble.className = "p-4 rounded-2xl rounded-tl-none bg-[#111827] border border-[#374151] flex items-center";
+            bubble.innerHTML = `
+                <div class="typing-indicator flex items-center">
+                    <span></span><span></span><span></span>
+                </div>
+            `;
+            
+            const contentWrapper = document.createElement('div');
+            contentWrapper.className = "flex items-start max-w-full";
+            contentWrapper.appendChild(avatarDiv);
+            contentWrapper.appendChild(bubble);
+            wrapper.appendChild(contentWrapper);
+
+            return wrapper;
+        }
+
+        async function submitMessage() {
+            const text = inputField.value.trim();
+            if (!text) return;
+
+            // UI State updates
+            if (isFirstMessage) {
+                welcomePanel.style.opacity = '0';
+                setTimeout(() => {
+                    welcomePanel.classList.add('hidden');
+                    chatContainer.classList.remove('hidden');
+                    chatContainer.classList.add('flex');
+                }, 300);
+                isFirstMessage = false;
+            }
+
+            // Append User Message
+            const userEl = createMessageElement(text, true);
+            chatContainer.appendChild(userEl);
+            inputField.value = '';
+            inputField.disabled = true;
+            sendButton.disabled = true;
+            sendButton.classList.add('opacity-50');
+            scrollToBottom();
+
+            // Append Typing Indicator
+            const typingEl = createTypingIndicator();
+            chatContainer.appendChild(typingEl);
+            scrollToBottom();
+
+            try {
+                const response = await fetch('http://localhost:8000/api/chat', {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({ message: text })
+                });
+
+                if (!response.ok) throw new Error('Network response was not ok');
+                
+                const data = await response.json();
+                
+                // Remove typing indicator
+                const indicator = document.getElementById('typing-indicator');
+                if (indicator) indicator.remove();
+
+                // Append Assistant Message
+                // Fallback text if API format differs, assuming data.reply or similar
+                const replyText = data.reply || data.response || data.message || "**Success:** Connection established, but response format unhandled. Example text.";
+                const botEl = createMessageElement(replyText, false);
+                chatContainer.appendChild(botEl);
+
+            } catch (error) {
+                console.error("Fetch Error:", error);
+                
+                // Remove typing indicator
+                const indicator = document.getElementById('typing-indicator');
+                if (indicator) indicator.remove();
+
+                // Fallback for demo/dev purposes
+                const errorMsg = "Sorry, I am having trouble connecting to the server. Please try again later. *(Ensure localhost:8000 is running)*";
+                const botEl = createMessageElement(errorMsg, false);
+                chatContainer.appendChild(botEl);
+            } finally {
+                inputField.disabled = false;
+                sendButton.disabled = false;
+                sendButton.classList.remove('opacity-50');
+                inputField.focus();
+                scrollToBottom();
+            }
+        }
+
+        function scrollToBottom() {
+            const mainContainer = document.querySelector('main');
+            mainContainer.scrollTo({
+                top: mainContainer.scrollHeight,
+                behavior: 'smooth'
+            });
+        }
+    </script>
+</body></html>

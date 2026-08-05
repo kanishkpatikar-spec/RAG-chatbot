@@ -1,0 +1,57 @@
+# ---------------------------------------------------------------
+# Phase 8 — Scheduled Data Ingestion via GitHub Actions
+# ---------------------------------------------------------------
+# Runs the full data-ingestion pipeline (scrape → parse → embed)
+# on a daily cron schedule so the knowledge base stays fresh.
+#
+# To change the schedule, edit the cron expression below.
+# Syntax: minute hour day-of-month month day-of-week  (UTC)
+# ---------------------------------------------------------------
+
+name: Scheduled Data Ingestion
+
+on:
+  schedule:
+    # Runs every day at 10:30 AM IST (05:00 UTC)
+    - cron: "0 5 * * *"
+
+  # Allow manual trigger from the GitHub UI (Actions → Run workflow)
+  workflow_dispatch:
+
+permissions:
+  contents: write   # needed if you ever commit updated vectorstore back
+
+jobs:
+  ingest:
+    name: Scrape → Parse → Embed
+    runs-on: ubuntu-latest
+
+    steps:
+      # ---- Checkout ----
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # ---- Python Setup ----
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      # ---- Run Pipeline ----
+      - name: Run data-ingestion pipeline
+        env:
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+        run: python src/scheduler.py
+
+      # ---- Upload Artifacts (optional) ----
+      - name: Upload vectorstore as artifact
+        if: success()
+        uses: actions/upload-artifact@v4
+        with:
+          name: vectorstore-${{ github.run_id }}
+          path: vectorstore/
+          retention-days: 7
