@@ -39,7 +39,9 @@ jobs:
           cache: pip
 
       - name: Install dependencies
-        run: pip install -r requirements.txt
+        run: |
+          pip install -r requirements.txt
+          playwright install chromium --with-deps
 
       # ---- Cache HuggingFace Model ----
       # The BAAI/bge-small-en-v1.5 model (~130 MB) is cached between runs

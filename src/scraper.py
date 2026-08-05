@@ -1,8 +1,8 @@
 import os
 import sys
 import logging
-import requests
 from bs4 import BeautifulSoup
+from playwright.sync_api import sync_playwright
 
 # Add the project root to the python path to allow importing config
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
@@ -15,26 +15,19 @@ def get_slug_from_url(url):
     """Extracts the slug from the Groww mutual fund URL."""
     return url.strip("/").split("/")[-1]
 
-def scrape_and_save(url, output_dir="data/raw"):
+def scrape_and_save(page, url, output_dir="data/raw"):
     """
-    Fetches the HTML content of a given URL and saves it to the output directory.
-    Note: Phase 1A ensures we fetch the raw HTML. Extraction of meaningful sections 
-    (scheme name, expense ratio, exit load, etc.) will be handled in Phase 1B (parser.py) 
-    using the saved raw HTML.
+    Fetches the HTML content of a given URL using Playwright and saves it.
     """
     slug = get_slug_from_url(url)
     filepath = os.path.join(output_dir, f"{slug}.html")
     
-    headers = {
-        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
-    }
-    
     try:
-        logging.info(f"Fetching URL: {url}")
-        response = requests.get(url, headers=headers)
-        response.raise_for_status()
+        logging.info(f"Fetching URL with Playwright: {url}")
+        # Wait until network is mostly idle to ensure JS has loaded data
+        page.goto(url, wait_until="networkidle", timeout=60000)
         
-        html_content = response.text
+        html_content = page.content()
         
         # Simple verification using BeautifulSoup
         soup = BeautifulSoup(html_content, "html.parser")
@@ -46,25 +39,32 @@ def scrape_and_save(url, output_dir="data/raw"):
         with open(filepath, "w", encoding="utf-8") as f:
             f.write(html_content)
             
-        logging.info(f"Successfully saved raw HTML to {filepath}")
+        logging.info(f"Successfully saved rendered HTML to {filepath}")
         return True
         
-    except requests.exceptions.RequestException as e:
+    except Exception as e:
         logging.error(f"Error fetching {url}: {e}")
         return False
 
 def main():
-    logging.info("Starting Phase 1A: Web Scraper")
+    logging.info("Starting Phase 1A: Web Scraper (Playwright)")
     
     # Ensure output directory exists relative to project root
     output_dir = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "data", "raw")
     
     success_count = 0
-    for url in URLS:
-        if scrape_and_save(url, output_dir):
-            success_count += 1
+    with sync_playwright() as p:
+        browser = p.chromium.launch(headless=True)
+        page = browser.new_page()
+        
+        for url in URLS:
+            if scrape_and_save(page, url, output_dir):
+                success_count += 1
+                
+        browser.close()
             
     logging.info(f"Scraper finished. Successfully scraped {success_count}/{len(URLS)} URLs.")
 
 if __name__ == "__main__":
     main()
+
