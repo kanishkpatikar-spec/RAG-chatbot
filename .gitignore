@@ -1,8 +1,5 @@
 venv/
 .env
-vectorstore/
-data/raw/
-data/processed/
 __pycache__/
 *.pyc
 node_modules/

@@ -1,0 +1,513 @@
+ICICI Prudential Technology Direct Plan Growth - NAV, Mutual Fund Performance & Portfolio
++9.11
+%
+3Y annualised
+-0.49
+%
+1D
+1M
+6M
+1Y
+3Y
+5Y
+All
+NAV: 31 Jul '26
+₹204.28
+Min. for SIP
+₹100
+Fund size (AUM)
+₹12,547.28 Cr
+Expense ratio
+1.22%
+Rating
+--
+Return calculator
+Monthly SIP
+One time
+Monthly investment
+₹5,000
+1 year
+₹60,000
+₹59,401
+-1.00
+%
+3 years
+₹1,80,000
+₹1,82,135
++
+1.19
+%
+5 years
+₹3,00,000
+₹3,39,731
++
+13.24
+%
+10 years
+₹6,00,000
+₹14,06,690
++
+134.45
+%
+Holdings (
+75
+)
+Bharti Airtel Ltd
+Technology
+Equity
+13.17%
+Infosys Ltd
+Technology
+Equity
+12.51%
+Tech Mahindra Ltd
+Technology
+Equity
+7.84%
+Coforge Ltd
+Technology
+Equity
+4.91%
+Mphasis Ltd
+Technology
+Equity
+4.48%
+Wipro Ltd Futures
+Technology
+Futures
+3.27%
+LTIMindtree Ltd
+Technology
+Equity
+2.92%
+Persistent Systems Ltd
+Technology
+Equity
+2.51%
+Repo
+Unspecified
+Repo
+2.47%
+Sagility India Ltd.
+Industrials
+Equity
+2.34%
+Bharti Hexacom Ltd.
+Technology
+Equity
+2.31%
+Cognizant Technology Solutions Corp Forgn. Eq (CTSH)
+Technology
+Foreign - Equity
+2.25%
+Zomato Ltd
+Technology
+Equity
+2.19%
+HCL Technologies Ltd
+Technology
+Equity
+2.13%
+Info Edge (India) Ltd
+Technology
+Equity
+1.84%
+Swiggy Ltd.
+Technology
+Equity
+1.73%
+HEXAWARE TECHNOLOGIES LIMITED EQ NEW FV RS.2/-
+Technology
+Equity
+1.51%
+Tata Consultancy Services Ltd
+Technology
+Equity
+1.48%
+Indiamart Intermesh Ltd
+Industrials
+Equity
+1.43%
+Cash Margin
+Unspecified
+Cash Margin
+1.38%
+Mastek Ltd
+Technology
+Equity
+1.28%
+WeWork India Management Ltd.
+Industrials
+Equity
+1.17%
+KPIT Technologies Ltd
+Technology
+Equity
+1.17%
+Computer Age Management Services Ltd
+Financial
+Equity
+1.14%
+Cyient Ltd
+Technology
+Equity
+1.13%
+C.E. Info Systems Ltd
+Technology
+Equity
+1.12%
+RateGain Travel Technologies Ltd
+Technology
+Equity
+1.09%
+Amagi Media Labs Ltd.
+Technology
+Equity
+1.05%
+L&T Technology Services Ltd
+Technology
+Equity
+1.04%
+Hindustan Aeronautics Ltd
+Industrials
+Equity
+1.04%
+Netweb Technologies India Ltd.
+Technology
+Equity
+0.98%
+Angel One Ltd
+Financial
+Equity
+0.93%
+GOVERNMENT OF INDIA 37410 091 DAYS TBILL 30JL26 FV RS 100
+Financial
+Treasury Bills
+0.89%
+Sonata Software Ltd
+Technology
+Equity
+0.78%
+Indegene Ltd.
+Healthcare
+Equity
+0.78%
+Birlasoft Ltd
+Technology
+Equity
+0.78%
+Pine Labs Ltd.
+Technology
+Equity
+0.74%
+Adobe Systems Inc. (USA) Forgn. Eq (ADBE)
+Technology
+Foreign - Equity
+0.74%
+PB Fintech Ltd
+Financial
+Equity
+0.71%
+Zensar Technologies Ltd
+Technology
+Equity
+0.67%
+Delhivery Ltd
+Industrials
+Equity
+0.65%
+Multi Commodity Exchange Of India Ltd
+Financial
+Equity
+0.64%
+Inventurus Knowledge Solutions Ltd.
+Industrials
+Equity
+0.59%
+Brainbees Solutions Ltd.
+Consumer Discretionary
+Equity
+0.59%
+Wipro Ltd
+Technology
+Equity
+0.58%
+eClerx Services Ltd
+Technology
+Equity
+0.56%
+Accenture PLC Forgn. Eq (ACN)
+Technology
+Foreign - Equity
+0.52%
+Firstsource Solutions Ltd
+Industrials
+Equity
+0.50%
+Physicswallah Ltd.
+Consumer Staples
+Equity
+0.48%
+GOVERNMENT OF INDIA 36371 364 DAYS TBILL 28AG26 FV RS 100
+Financial
+Treasury Bills
+0.47%
+Yatra Online Ltd.
+Consumer Discretionary
+Equity
+0.46%
+Fractal Analytics Ltd.
+Technology
+Equity
+0.43%
+Amazon. com Inc. (USA) Forgn. Eq (AMZN)
+Consumer Discretionary
+Foreign - Equity
+0.42%
+Zinka Logistics Solutions Ltd.
+Industrials
+Equity
+0.42%
+Affle (India) Ltd
+Industrials
+Equity
+0.31%
+NIIT Learning Systems Ltd
+Consumer Staples
+Equity
+0.29%
+Tata Elxsi Ltd
+Technology
+Equity
+0.28%
+TeamLease Services Ltd
+Industrials
+Equity
+0.26%
+TBO Tek Ltd.
+Consumer Discretionary
+Equity
+0.26%
+BSE Ltd
+Financial
+Equity
+0.23%
+Axiscades Technologies Ltd
+Industrials
+Equity
+0.22%
+Capillary Technologies India Ltd.
+Technology
+Equity
+0.20%
+GOVERNMENT OF INDIA 37448 091 DAYS TBILL 20AG26 FV RS 100
+Financial
+Treasury Bills
+0.17%
+EPAM Systems Inc (EPAM)
+Technology
+Foreign - Equity
+0.14%
+GOVERNMENT OF INDIA 37456 091 DAYS TBILL 28AG26 FV RS 100
+Financial
+Treasury Bills
+0.14%
+Tata Technologies Ltd
+Technology
+Equity
+0.12%
+Intellect Design Arena Ltd
+Technology
+Equity
+0.11%
+PVR Ltd
+Consumer Discretionary
+Equity
+0.09%
+Onward Technologies Ltd
+Technology
+Equity
+0.07%
+Route Mobile Ltd
+Technology
+Equity
+0.06%
+INOX INDIA LIMITED EQ
+Energy & Utilities
+Equity
+0.05%
+Updater Services Ltd.
+Industrials
+Equity
+0.04%
+Shadowfax Technologies Ltd.
+Industrials
+Equity
+0.04%
+Tracxn Technologies Ltd
+Industrials
+Equity
+0.01%
+Net Payables
+Unspecified
+Net Payables
+-4.29%
+See All
+Min. for 1st investment
+₹5,000
+Min. for 2nd investment
+₹1,000
+Min. for SIP
+₹100
+Understand terms
+Annualised returns
+Average of the yearly returns of a mutual fund over a given period.
+Absolute returns
+The total return of a mutual fund over a given period.
+Returns and rankings
+Annualised returns
+Absolute returns
+Fund returns
++9.1%
++6.4%
++17.4%
++18.9%
+Category average (
+Equity Sectoral
+)
++14.1%
++12.6%
++17.2%
+--
+Rank (
+Equity Sectoral
+)
+4
+5
+2
+--
+Expense ratio
+A fee payable to a mutual fund house for managing your mutual fund investments.     It is the total percentage of a company's fund assets used for administrative, management, advertising, and other expenses.
+Tax
+A percentage of your capital gains payable to the government upon exiting your mutual fund investments.     Taxation is categorized as long-term capital gains (LTCG) and short-term capital gains (STCG) depending on your holding period and the type of fund.
+Exit load
+A fee payable to a mutual fund house for exiting a fund (fully or partially) before the completion of a specified period from the date of investment.
+Stamp duty
+A form of tax payable for the purchase or sale of an asset or security.
+01 Aug 2018
+Exit load of 1% if redeemed within 15 days
+01 Jan 2013
+Exit load of 1% if redeemed upto 1 year.
+
+Exit load of 1% if redeemed within 1 year by way of SIP.
+Exit load, stamp duty and tax
+Exit load
+Exit load of 1% if redeemed within 15 days
+Stamp duty on investment:
+0.005% (from July 1st, 2020)
+from July 1st 2020
+Tax implication
+If you redeem within one year, returns are taxed at 20%. If you redeem after one year, returns exceeding Rs 1.25 lakh in a financial year are taxed at 12.5%.
+Check past data
+Fund management
+Education
+Ms. D'Silva is CA and BAF
+Experience
+She joined ICICI Prudential AMC Limited in September 2016.
+Also manages these schemes
+ICICI Prudential Midcap Direct Plan Growth
+ICICI Prudential Large & Mid Cap Fund Direct Plan Growth
+ICICI Prudential Balanced Advantage Direct Growth
+ICICI Prudential Value Direct Growth
+ICICI Prudential Banking and Financial Services Direct Plan Growth
+ICICI Prudential Multicap Fund Direct Plan Growth
+ICICI Prudential Multi Asset Fund Direct Growth
+ICICI Prudential Large Cap Fund Direct Growth
+ICICI Prudential Arbitrage Direct Growth
+ICICI Prudential Infrastructure Direct Growth
+ICICI Prudential Focused Equity Fund Direct Growth
+ICICI Prudential Liquid Fund Direct Plan Growth
+ICICI Prudential Regular Savings Fund Direct Growth
+ICICI Prudential Exports and Services Fund Direct Growth
+ICICI Prudential Multi Sector Passive FoF Direct Growth
+ICICI Prudential Dynamic Asset Allocation Active FoF Direct Growth
+ICICI Prudential Equity & Debt Fund Direct Growth
+ICICI Prudential ELSS Tax Saver Direct Plan Growth
+ICICI Prudential Children's Fund Direct Growth
+ICICI Prudential Technology Direct Plan Growth
+ICICI Prudential US Bluechip Equity Direct Plan Growth
+ICICI Prudential Active Momentum Fund Direct Growth
+ICICI Prudential Diversified Equity All Cap Active FoF Direct Growth
+ICICI Prudential Multi Asset Active FoF Direct Growth
+iSIF Active Asset Allocator Long Short Fund Direct Growth
+ICICI Prudential Equity Savings Fund Direct Growth
+ICICI Prudential Global Stable Equity Fund (FOF) Direct Growth
+ICICI Prudential Dividend Yield Equity Fund Direct Growth
+ICICI Prudential Long Term Wealth Enhancement Fund Direct Growth
+ICICI Prudential Housing Opportunities Fund Direct Growth
+ICICI Prudential Transportation and Logistics Fund Direct Growth
+ICICI Prudential Innovation Fund Direct Growth
+ICICI Prudential Energy Opportunities Fund Direct Growth
+ICICI Prudential MNC Fund Direct Growth
+ICICI Prudential Global Advantage Fund (FOF) Direct Growth
+ICICI Prudential Commodities Fund Direct Growth
+ICICI Prudential Pharma Healthcare and Diagnostics (P.H.D) Fund Direct Growth
+ICICI Prudential Diversified Equity All Cap Omni FoF Direct Growth
+ICICI Prudential Manufacturing Fund Direct Growth
+ICICI Prudential ESG Exclusionary Strategy Fund Direct Growth
+ICICI Prudential Flexicap Fund Direct Growth
+ICICI Prudential India Opportunities Fund Direct Growth
+ICICI Prudential Retirement Fund Pure Equity Plan Direct Growth
+ICICI Prudential Retirement Fund Hybrid Aggressive Plan Direct Growth
+ICICI Prudential NASDAQ 100 Index Fund Direct Growth
+ICICI Prudential Retirement Fund Hybrid Conservative Plan Direct Growth
+ICICI Prudential Retirement Fund Pure Debt Plan Direct Growth
+ICICI Prudential Passive Multi Asset FoF Direct Growth
+ICICI Prudential Strategic Metal and Energy Equity FoF Direct Growth
+Education
+Mr. Dusad has done B.Tech, M.Tech and MBA
+Experience
+Prior to joining ICICI Prudential AMC Ltd, he has worked with Morgan Stanley, HSBC Global Banking and Markets, CRISIL, Zinnov Mangement Consulting and Citibank Singapore.
+Also manages these schemes
+ICICI Prudential Large Cap Fund Direct Growth
+ICICI Prudential Focused Equity Fund Direct Growth
+ICICI Prudential Technology Direct Plan Growth
+ICICI Prudential Innovation Fund Direct Growth
+About
+ICICI Prudential Technology Direct Plan Growth
+ICICI Prudential Technology Direct Plan Growth is a Equity Mutual Fund Scheme launched by ICICI Prudential Mutual Fund. This scheme was made available to investors on 12 Oct 1993. Sharmila D'Silva is the Current Fund Manager of ICICI Prudential Technology Direct Plan Growth fund. The fund currently has an Asset Under Management(AUM) of ₹11,18,215 Cr and the Latest NAV as of 31 Jul 2026 is ₹204.28.
+The ICICI Prudential Technology Direct Plan Growth is rated Very High risk. Minimum SIP Investment is set to ₹100. Minimum Lumpsum Investment is ₹5,000. Exit load of 1% if redeemed within 15 days
+;
+Investment Objective
+The scheme will seek long term capital appreciation by investing in equity and equity related securities of technology and technology dependent companies. A large share of the AUM will be invested in the stocks under the Benchmark Index, however, the scheme may also invest in other companies which form a part of Information Technology Services Industry.
+;
+Fund benchmark
+BSE Teck Total Return Index
+Scheme Information Document(SID)
+Fund house
+Rank (total assets)
+#3 in India
+Total AUM
+₹11,18,214.70 Cr
+Date of Incorporation
+12 Oct 1993
+Phone
+--
+E-mail
+--
+Website
+http://www.icicipruamc.com
+Launch Date
+12 Oct 1993
+Address
+One BKC ,  A Wing ,13th Floor, Bandra Kurla Complex, Mumbai 400051
+Custodian
+Deutsche Bank
+Registrar & Transfer Agent
+Cams
+Email
+[email protected]
+Website
+www.camsonline.com
+Address
+7th Floor, Tower II, Rayala Towers, 158, Anna Salai,
