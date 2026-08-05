@@ -68,3 +68,13 @@ jobs:
           name: vectorstore-${{ github.run_id }}
           path: vectorstore/
           retention-days: 7
+
+      # ---- Commit and Push Updated Data ----
+      - name: Commit and push changes
+        if: success()
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add data/ vectorstore/
+          # Only commit if there are changes
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update knowledge base" && git push)
