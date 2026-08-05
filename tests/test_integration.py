@@ -6,6 +6,7 @@ from fastapi.testclient import TestClient
 # Ensure `src/` is importable
 sys.path.insert(0, os.path.join(os.path.dirname(__file__), "..", "src"))
 
+# pyrefly: ignore [missing-import]
 from main import app
 
 class TestIntegration(unittest.TestCase):
