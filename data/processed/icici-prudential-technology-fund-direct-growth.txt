@@ -418,6 +418,7 @@ A form of tax payable for the purchase or sale of an asset or security.
 Exit load of 1% if redeemed within 15 days
 01 Jan 2013
 Exit load of 1% if redeemed upto 1 year.
+
 Exit load of 1% if redeemed within 1 year by way of SIP.
 Exit load, stamp duty and tax
 Exit load
@@ -492,8 +493,8 @@ ICICI Prudential Focused Equity Fund Direct Growth
 ICICI Prudential Technology Direct Plan Growth
 ICICI Prudential Innovation Fund Direct Growth
 About ICICI Prudential Technology Direct Plan Growth
-ICICI Prudential Technology Direct Plan Growth is a Equity Mutual Fund Scheme launched by ICICI Prudential Mutual Fund. This scheme was made available to investors on 11 Oct 1993. Sharmila D'Silva is the Current Fund Manager of ICICI Prudential Technology Direct Plan Growth fund. The fund currently
-ICICI Prudential Technology Direct Plan Growth is a Equity Mutual Fund Scheme launched by ICICI Prudential Mutual Fund. This scheme was made available to investors on 11 Oct 1993. Sharmila D'Silva is the Current Fund Manager of ICICI Prudential Technology Direct Plan Growth fund. The fund currently has an Asset Under Management(AUM) of ₹11,18,215 Cr and the Latest NAV as of 05 Aug 2026 is ₹207.74.
+ICICI Prudential Technology Direct Plan Growth is a Equity Mutual Fund Scheme launched by ICICI Prudential Mutual Fund. This scheme was made available to investors on 12 Oct 1993. Sharmila D'Silva is the Current Fund Manager of ICICI Prudential Technology Direct Plan Growth fund. The fund currently
+ICICI Prudential Technology Direct Plan Growth is a Equity Mutual Fund Scheme launched by ICICI Prudential Mutual Fund. This scheme was made available to investors on 12 Oct 1993. Sharmila D'Silva is the Current Fund Manager of ICICI Prudential Technology Direct Plan Growth fund. The fund currently has an Asset Under Management(AUM) of ₹11,18,215 Cr and the Latest NAV as of 05 Aug 2026 is ₹207.74.
 The ICICI Prudential Technology Direct Plan Growth is rated Very High risk. Minimum SIP Investment is set to ₹100. Minimum Lumpsum Investment is ₹5,000. Exit load of 1% if redeemed within 15 days
 ...Read more
 Investment Objective
@@ -509,7 +510,7 @@ Rank (total assets)
 Total AUM
 ₹11,18,214.70 Cr
 Date of Incorporation
-11 Oct 1993
+12 Oct 1993
 Phone
 --
 E-mail
@@ -517,7 +518,7 @@ E-mail
 Website
 http://www.icicipruamc.com
 Launch Date
-11 Oct 1993
+12 Oct 1993
 Address
 One BKC ,  A Wing ,13th Floor, Bandra Kurla Complex, Mumbai 400051
 Custodian
