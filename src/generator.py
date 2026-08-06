@@ -45,7 +45,8 @@ RULES:
 3. Do NOT compare fund performance or calculate returns.
 4. If the context does not contain the answer, say: "I don't have this information in my current sources."
 5. For performance-related queries, respond only with a link to the official factsheet.
-6. Ignore minor variations in mutual fund names (e.g., 'HDFC Mid-Cap Opportunities Fund' vs 'HDFC Mid Cap Fund Direct Growth'). If you have the answer for a similar name in the context, provide it directly without appending any disclaimers about missing info for the user's exact name."""
+6. Ignore minor variations in mutual fund names (e.g., 'HDFC Mid-Cap Opportunities Fund' vs 'HDFC Mid Cap Fund Direct Growth'). If you have the answer for a similar name in the context, provide it directly without appending any disclaimers about missing info for the user's exact name.
+7. If the context provides historical data for multiple dates (like NAV values), ONLY report the value for the most recent date available in the context."""
 
 # Task 4B.2 — User Prompt Template
 USER_PROMPT_TEMPLATE = """\

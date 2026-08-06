@@ -38,6 +38,12 @@ def create_vector_store():
     base_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
     persist_directory = os.path.join(base_dir, "vectorstore")
     
+    # Clear out old vectorstore data to avoid appending duplicates from previous days
+    import shutil
+    if os.path.exists(persist_directory):
+        logging.info(f"Clearing old vector store at: {persist_directory}")
+        shutil.rmtree(persist_directory, ignore_errors=True)
+    
     logging.info(f"Storing embeddings in ChromaDB at: {persist_directory}...")
     vectorstore = Chroma.from_documents(
         documents=chunks,
