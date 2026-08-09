@@ -12,7 +12,7 @@ ICICI Prudential Technology Direct Plan Growth - NAV, Mutual Fund Performance & 
 8
 9
 .
-9
+8
 0
 1
 2
@@ -23,7 +23,7 @@ ICICI Prudential Technology Direct Plan Growth - NAV, Mutual Fund Performance & 
 7
 8
 9
-7
+2
 0
 1
 2
@@ -36,7 +36,7 @@ ICICI Prudential Technology Direct Plan Growth - NAV, Mutual Fund Performance & 
 9
 %
 3Y annualised
--0.75%
++0.47%
 1D
 1M
 6M
@@ -61,20 +61,20 @@ Monthly investment
 ₹100
 1 year
 ₹1,200
-₹1,199
--0.08%
+₹1,205
++0.42%
 3 years
 ₹3,600
-₹3,647
-+1.31%
+₹3,664
++1.78%
 5 years
 ₹6,000
-₹6,842
-+14.03%
+₹6,873
++14.55%
 10 years
 ₹12,000
-₹28,285
-+135.71%
+₹28,404
++136.70%
 Holdings (75)
 Bharti Airtel Ltd
 Technology
@@ -392,10 +392,10 @@ Returns and rankings
 Annualised returns
 Absolute returns
 Fund returns
-+9.0%
-+6.3%
++8.8%
++6.4%
 +17.4%
-+18.9%
++19.0%
 Category average (Equity Sectoral)
 +14.1%
 +12.6%
@@ -548,17 +548,17 @@ In order to invest, you will have to complete all the KYC formalities which are 
 Once you are done with that, you can start investing in ICICI Prudential Technology Direct Plan Growth as SIP or lumpsum as per your
         investment objective and risk tolerance
 What kind of returns does ICICI Prudential Technology Direct Plan Growth provide?
-The ICICI Prudential Technology Direct Plan Growth has been there from 01 Jan 2013 and the average annual returns provided by this fund is 18.95% since its inception.
+The ICICI Prudential Technology Direct Plan Growth has been there from 01 Jan 2013 and the average annual returns provided by this fund is 18.98% since its inception.
 How much expense ratio is charged by ICICI Prudential Technology Direct Plan Growth?
 The term
 Expense Ratio
 used for ICICI Prudential Technology Direct Plan Growth or any other mutual fund is the annual
         charges one needs to pay to the Mutual Fund company for managing your investments in that fund.
-The Expense Ratio of ICICI Prudential Technology Direct Plan Growth is 1.22% as of 08 Aug 2026...
+The Expense Ratio of ICICI Prudential Technology Direct Plan Growth is 1.22% as of 09 Aug 2026...
 What is the AUM of ICICI Prudential Technology Direct Plan Growth?
 The AUM, short for
 Assets Under Management
-of ICICI Prudential Technology Direct Plan Growth is ₹12,547.28Cr as of 08 Aug 2026.
+of ICICI Prudential Technology Direct Plan Growth is ₹12,547.28Cr as of 09 Aug 2026.
 How to Redeem ICICI Prudential Technology Direct Plan Growth?
 If you want to sell your ICICI Prudential Technology Direct Plan Growth holdings, go to your holding on the app or
         web and simply click on it. You will get two options - redeem & invest more; click on redeem and enter your
