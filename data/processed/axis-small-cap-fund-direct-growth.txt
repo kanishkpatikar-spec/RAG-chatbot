@@ -649,7 +649,7 @@ Category average (Equity Small Cap)
 +16.1%
 --
 Rank (Equity Small Cap)
-19
+18
 14
 2
 --
@@ -787,7 +787,7 @@ Nippon India Small Cap Fund Direct Growth
 +17.78%
 3Y
 ICICI Prudential Technology Direct Plan Growth
-+9.12%
++8.93%
 3Y
 HDFC Small Cap Fund Direct Growth
 +13.49%
@@ -812,11 +812,11 @@ The term
 Expense Ratio
 used for Axis Small Cap Fund Direct Growth or any other mutual fund is the annual
         charges one needs to pay to the Mutual Fund company for managing your investments in that fund.
-The Expense Ratio of Axis Small Cap Fund Direct Growth is 0.76% as of 15 Aug 2026...
+The Expense Ratio of Axis Small Cap Fund Direct Growth is 0.76% as of 16 Aug 2026...
 What is the AUM of Axis Small Cap Fund Direct Growth?
 The AUM, short for
 Assets Under Management
-of Axis Small Cap Fund Direct Growth is ₹30,088.59Cr as of 15 Aug 2026.
+of Axis Small Cap Fund Direct Growth is ₹30,088.59Cr as of 16 Aug 2026.
 How to Redeem Axis Small Cap Fund Direct Growth?
 If you want to sell your Axis Small Cap Fund Direct Growth holdings, go to your holding on the app or
         web and simply click on it. You will get two options - redeem & invest more; click on redeem and enter your
