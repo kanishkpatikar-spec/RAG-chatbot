@@ -23,7 +23,7 @@ Nippon India Small Cap Fund Direct Growth - NAV, Mutual Fund Performance & Portf
 8
 9
 .
-9
+7
 0
 1
 2
@@ -34,7 +34,7 @@ Nippon India Small Cap Fund Direct Growth - NAV, Mutual Fund Performance & Portf
 7
 8
 9
-6
+4
 0
 1
 2
@@ -47,7 +47,7 @@ Nippon India Small Cap Fund Direct Growth - NAV, Mutual Fund Performance & Portf
 9
 %
 3Y annualised
-+0.10%
+-0.52%
 1D
 1M
 6M
@@ -55,8 +55,8 @@ Nippon India Small Cap Fund Direct Growth - NAV, Mutual Fund Performance & Portf
 3Y
 5Y
 All
-NAV: 18 Aug '26
-₹210.17
+NAV: 19 Aug '26
+₹209.07
 Min. for SIP
 ₹100
 Fund size (AUM)
@@ -1118,9 +1118,9 @@ Returns and rankings
 Annualised returns
 Absolute returns
 Fund returns
-+18.0%
-+20.6%
-+21.8%
++17.7%
++20.4%
++21.7%
 +24.1%
 Category average (Equity Small Cap)
 +19.7%
@@ -1128,7 +1128,7 @@ Category average (Equity Small Cap)
 +16.1%
 --
 Rank (Equity Small Cap)
-17
+18
 3
 1
 --
@@ -1160,24 +1160,24 @@ If you redeem within one year, returns are taxed at 20%. If you redeem after one
 Check past data
 Compare similar funds
 Bandhan Small Cap Fund Direct Growth
-+12.88%
-+26.95%
++11.62%
++26.81%
 31,103.03
 Invesco India Smallcap Fund Direct Growth
-+16.30%
-+24.94%
++15.19%
++24.73%
 14,474.79
 Union Small Cap Fund Direct Growth
-+25.19%
-+20.24%
++23.34%
++19.91%
 2,401.95
 Sundaram Small Cap Fund Direct Growth
-+18.82%
-+19.45%
++17.71%
++19.27%
 3,922.31
 Nippon India Small Cap Fund Direct Growth
-+12.03%
-+17.96%
++10.21%
++17.74%
 78,956.77
 Compare
 Fund management
@@ -1289,7 +1289,7 @@ Nippon India Active Momentum Fund Direct Growth
 Nippon India MNC Fund Direct Growth
 About Nippon India Small Cap Fund Direct Growth
 Nippon India Small Cap Fund Direct Growth is a Equity Mutual Fund Scheme launched by Nippon India Mutual Fund. This scheme was made available to investors on 29 Jun 1995. Samir Rachh is the Current Fund Manager of Nippon India Small Cap Fund Direct Growth fund. The fund currently has an Asset Under
-Nippon India Small Cap Fund Direct Growth is a Equity Mutual Fund Scheme launched by Nippon India Mutual Fund. This scheme was made available to investors on 29 Jun 1995. Samir Rachh is the Current Fund Manager of Nippon India Small Cap Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹7,78,923 Cr and the Latest NAV as of 18 Aug 2026 is ₹210.17.
+Nippon India Small Cap Fund Direct Growth is a Equity Mutual Fund Scheme launched by Nippon India Mutual Fund. This scheme was made available to investors on 29 Jun 1995. Samir Rachh is the Current Fund Manager of Nippon India Small Cap Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹7,78,923 Cr and the Latest NAV as of 19 Aug 2026 is ₹209.07.
 The Nippon India Small Cap Fund Direct Growth is rated Very High risk. Minimum SIP Investment is set to ₹100.  Exit load of 1% if redeemed within 1 year.
 ...Read more
 Investment Objective
@@ -1329,13 +1329,13 @@ Name
 Nippon India Small Cap Fund Direct IDCW
 Recently viewed
 ICICI Prudential Technology Direct Plan Growth
-+8.56%
++8.51%
 3Y
 HDFC Small Cap Fund Direct Growth
-+12.97%
++12.86%
 3Y
 HDFC Mid Cap Fund Direct Growth
-+20.20%
++20.12%
 3Y
 FAQs
 How to Invest in Nippon India Small Cap Fund Direct Growth?
@@ -1348,17 +1348,17 @@ In order to invest, you will have to complete all the KYC formalities which are 
 Once you are done with that, you can start investing in Nippon India Small Cap Fund Direct Growth as SIP or lumpsum as per your
         investment objective and risk tolerance
 What kind of returns does Nippon India Small Cap Fund Direct Growth provide?
-The Nippon India Small Cap Fund Direct Growth has been there from 01 Jan 2013 and the average annual returns provided by this fund is 24.15% since its inception.
+The Nippon India Small Cap Fund Direct Growth has been there from 01 Jan 2013 and the average annual returns provided by this fund is 24.09% since its inception.
 How much expense ratio is charged by Nippon India Small Cap Fund Direct Growth?
 The term
 Expense Ratio
 used for Nippon India Small Cap Fund Direct Growth or any other mutual fund is the annual
         charges one needs to pay to the Mutual Fund company for managing your investments in that fund.
-The Expense Ratio of Nippon India Small Cap Fund Direct Growth is 0.69% as of 19 Aug 2026...
+The Expense Ratio of Nippon India Small Cap Fund Direct Growth is 0.69% as of 20 Aug 2026...
 What is the AUM of Nippon India Small Cap Fund Direct Growth?
 The AUM, short for
 Assets Under Management
-of Nippon India Small Cap Fund Direct Growth is ₹78,956.77Cr as of 19 Aug 2026.
+of Nippon India Small Cap Fund Direct Growth is ₹78,956.77Cr as of 20 Aug 2026.
 How to Redeem Nippon India Small Cap Fund Direct Growth?
 If you want to sell your Nippon India Small Cap Fund Direct Growth holdings, go to your holding on the app or
         web and simply click on it. You will get two options - redeem & invest more; click on redeem and enter your
@@ -1371,7 +1371,7 @@ Lumpsum
 investment of Nippon India Small Cap Fund Direct Growth based on
         your investment objective and risk tolerance.
 What is the NAV of Nippon India Small Cap Fund Direct Growth?
-The NAV of Nippon India Small Cap Fund Direct Growth is ₹210.17 as of 18 Aug 2026.
+The NAV of Nippon India Small Cap Fund Direct Growth is ₹209.07 as of 19 Aug 2026.
 What is the PE and PB ratio of Nippon India Small Cap Fund Direct Growth?
 The
 PE ratio
