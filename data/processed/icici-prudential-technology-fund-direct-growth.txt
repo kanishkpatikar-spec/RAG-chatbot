@@ -23,7 +23,7 @@ ICICI Prudential Technology Direct Plan Growth - NAV, Mutual Fund Performance & 
 7
 8
 9
-9
+7
 0
 1
 2
@@ -36,7 +36,7 @@ ICICI Prudential Technology Direct Plan Growth - NAV, Mutual Fund Performance & 
 9
 %
 3Y annualised
--0.03%
+-0.84%
 1D
 1M
 6M
@@ -44,8 +44,8 @@ ICICI Prudential Technology Direct Plan Growth - NAV, Mutual Fund Performance & 
 3Y
 5Y
 All
-NAV: 25 Aug '26
-₹207.04
+NAV: 26 Aug '26
+₹205.30
 Min. for SIP
 ₹100
 Fund size (AUM)
@@ -61,281 +61,277 @@ Monthly investment
 ₹100
 1 year
 ₹1,200
-₹1,199
--0.08%
+₹1,204
++0.33%
 3 years
 ₹3,600
-₹3,644
-+1.22%
+₹3,660
++1.67%
 5 years
 ₹6,000
-₹6,822
-+13.70%
+₹6,852
++14.20%
 10 years
 ₹12,000
-₹28,059
-+133.82%
-Holdings (75)
-Bharti Airtel Ltd
-Technology
-Equity
-13.17%
+₹28,178
++134.82%
+Holdings (74)
 Infosys Ltd
 Technology
 Equity
-12.51%
+12.80%
+Bharti Airtel Ltd
+Technology
+Equity
+12.56%
 Tech Mahindra Ltd
 Technology
 Equity
-7.84%
+7.51%
 Coforge Ltd
 Technology
 Equity
-4.91%
+4.48%
 Mphasis Ltd
 Technology
 Equity
-4.48%
-Wipro Ltd Futures
-Technology
-Futures
-3.27%
+4.41%
 LTIMindtree Ltd
 Technology
 Equity
-2.92%
-Persistent Systems Ltd
-Technology
-Equity
-2.51%
-Repo
-Unspecified
-Repo
-2.47%
-Sagility India Ltd.
-Industrials
-Equity
-2.34%
-Bharti Hexacom Ltd.
-Technology
-Equity
-2.31%
+3.38%
 Cognizant Technology Solutions Corp Forgn. Eq (CTSH)
 Technology
 Foreign - Equity
-2.25%
-Zomato Ltd
+3.01%
+Wipro Ltd
 Technology
 Equity
-2.19%
+2.67%
+Persistent Systems Ltd
+Technology
+Equity
+2.54%
+Sagility India Ltd.
+Industrials
+Equity
+2.39%
+Bharti Hexacom Ltd.
+Technology
+Equity
+2.32%
 HCL Technologies Ltd
 Technology
 Equity
-2.13%
-Info Edge (India) Ltd
+2.20%
+Zomato Ltd
 Technology
 Equity
-1.84%
+2.18%
 Swiggy Ltd.
 Technology
 Equity
-1.73%
+1.91%
+Info Edge (India) Ltd
+Technology
+Equity
+1.76%
 HEXAWARE TECHNOLOGIES LIMITED EQ NEW FV RS.2/-
 Technology
 Equity
-1.51%
-Tata Consultancy Services Ltd
-Technology
-Equity
-1.48%
-Indiamart Intermesh Ltd
-Industrials
-Equity
-1.43%
-Cash Margin
-Unspecified
-Cash Margin
-1.38%
+1.53%
 Mastek Ltd
 Technology
 Equity
-1.28%
+1.39%
+C.E. Info Systems Ltd
+Technology
+Equity
+1.35%
+Tata Consultancy Services Ltd
+Technology
+Equity
+1.26%
+Indiamart Intermesh Ltd
+Industrials
+Equity
+1.25%
+RateGain Travel Technologies Ltd
+Technology
+Equity
+1.23%
+Repo
+Unspecified
+Repo
+1.20%
 WeWork India Management Ltd.
 Industrials
 Equity
 1.17%
-KPIT Technologies Ltd
-Technology
-Equity
-1.17%
-Computer Age Management Services Ltd
-Financial
-Equity
-1.14%
 Cyient Ltd
 Technology
 Equity
-1.13%
-C.E. Info Systems Ltd
-Technology
-Equity
-1.12%
-RateGain Travel Technologies Ltd
-Technology
-Equity
-1.09%
+1.15%
 Amagi Media Labs Ltd.
 Technology
 Equity
-1.05%
+1.09%
 L&T Technology Services Ltd
 Technology
 Equity
-1.04%
+1.09%
+Computer Age Management Services Ltd
+Financial
+Equity
+1.05%
 Hindustan Aeronautics Ltd
 Industrials
 Equity
-1.04%
+1.02%
+KPIT Technologies Ltd
+Technology
+Equity
+0.96%
 Netweb Technologies India Ltd.
 Technology
 Equity
-0.98%
-Angel One Ltd
+0.90%
+PB Fintech Ltd
 Financial
 Equity
-0.93%
-GOVERNMENT OF INDIA 37410 091 DAYS TBILL 30JL26 FV RS 100
-Financial
-Treasury Bills
-0.89%
+0.88%
 Sonata Software Ltd
 Technology
 Equity
-0.78%
-Indegene Ltd.
-Healthcare
+0.87%
+Adobe Systems Inc. (USA) Forgn. Eq (ADBE)
+Technology
+Foreign - Equity
+0.84%
+Angel One Ltd
+Financial
 Equity
 0.78%
 Birlasoft Ltd
 Technology
 Equity
-0.78%
-Pine Labs Ltd.
+0.76%
+eClerx Services Ltd
 Technology
 Equity
-0.74%
-Adobe Systems Inc. (USA) Forgn. Eq (ADBE)
-Technology
-Foreign - Equity
-0.74%
-PB Fintech Ltd
+0.73%
+Multi Commodity Exchange Of India Ltd
 Financial
+Equity
+0.72%
+Indegene Ltd.
+Healthcare
 Equity
 0.71%
 Zensar Technologies Ltd
 Technology
 Equity
-0.67%
-Delhivery Ltd
-Industrials
-Equity
-0.65%
-Multi Commodity Exchange Of India Ltd
-Financial
-Equity
-0.64%
-Inventurus Knowledge Solutions Ltd.
-Industrials
-Equity
-0.59%
-Brainbees Solutions Ltd.
-Consumer Discretionary
-Equity
-0.59%
-Wipro Ltd
-Technology
-Equity
-0.58%
-eClerx Services Ltd
-Technology
-Equity
-0.56%
+0.69%
 Accenture PLC Forgn. Eq (ACN)
 Technology
 Foreign - Equity
-0.52%
+0.65%
+Delhivery Ltd
+Industrials
+Equity
+0.61%
 Firstsource Solutions Ltd
 Industrials
 Equity
-0.50%
-Physicswallah Ltd.
-Consumer Staples
-Equity
-0.48%
-GOVERNMENT OF INDIA 36371 364 DAYS TBILL 28AG26 FV RS 100
-Financial
-Treasury Bills
-0.47%
-Yatra Online Ltd.
-Consumer Discretionary
-Equity
-0.46%
-Fractal Analytics Ltd.
+0.61%
+Pine Labs Ltd.
 Technology
 Equity
-0.43%
+0.61%
+Inventurus Knowledge Solutions Ltd.
+Industrials
+Equity
+0.60%
+Brainbees Solutions Ltd.
+Consumer Discretionary
+Equity
+0.52%
 Amazon. com Inc. (USA) Forgn. Eq (AMZN)
 Consumer Discretionary
 Foreign - Equity
-0.42%
+0.45%
+Physicswallah Ltd.
+Consumer Staples
+Equity
+0.45%
+GOVERNMENT OF INDIA 36371 364 DAYS TBILL 28AG26 FV RS 100
+Financial
+Treasury Bills
+0.44%
+Yatra Online Ltd.
+Consumer Discretionary
+Equity
+0.40%
 Zinka Logistics Solutions Ltd.
 Industrials
 Equity
-0.42%
+0.40%
+Wipro Ltd Futures
+Technology
+Futures
+0.39%
+Fractal Analytics Ltd.
+Technology
+Equity
+0.36%
+Cash Margin
+Unspecified
+Cash Margin
+0.35%
 Affle (India) Ltd
 Industrials
 Equity
-0.31%
-NIIT Learning Systems Ltd
-Consumer Staples
-Equity
-0.29%
-Tata Elxsi Ltd
-Technology
-Equity
-0.28%
-TeamLease Services Ltd
-Industrials
-Equity
-0.26%
+0.32%
 TBO Tek Ltd.
 Consumer Discretionary
 Equity
 0.26%
+NIIT Learning Systems Ltd
+Consumer Staples
+Equity
+0.26%
+Tata Elxsi Ltd
+Technology
+Equity
+0.25%
 BSE Ltd
 Financial
 Equity
-0.23%
+0.20%
 Axiscades Technologies Ltd
 Industrials
 Equity
-0.22%
+0.19%
 Capillary Technologies India Ltd.
 Technology
 Equity
-0.20%
-GOVERNMENT OF INDIA 37448 091 DAYS TBILL 20AG26 FV RS 100
-Financial
-Treasury Bills
-0.17%
+0.18%
 EPAM Systems Inc (EPAM)
 Technology
 Foreign - Equity
-0.14%
+0.18%
+TeamLease Services Ltd
+Industrials
+Equity
+0.18%
+GOVERNMENT OF INDIA 37448 091 DAYS TBILL 20AG26 FV RS 100
+Financial
+Treasury Bills
+0.15%
 GOVERNMENT OF INDIA 37456 091 DAYS TBILL 28AG26 FV RS 100
 Financial
 Treasury Bills
-0.14%
+0.13%
 Tata Technologies Ltd
 Technology
 Equity
@@ -343,7 +339,7 @@ Equity
 Intellect Design Arena Ltd
 Technology
 Equity
-0.11%
+0.10%
 PVR Ltd
 Consumer Discretionary
 Equity
@@ -375,7 +371,7 @@ Equity
 Net Payables
 Unspecified
 Net Payables
--4.29%
+-0.47%
 See All
 Min. for 1st investment
 ₹5,000
@@ -393,9 +389,9 @@ Annualised returns
 Absolute returns
 Fund returns
 +8.3%
-+5.2%
-+17.5%
-+18.9%
++5.1%
++17.7%
++18.8%
 Category average (Equity Sectoral)
 +14.1%
 +12.6%
@@ -494,7 +490,7 @@ ICICI Prudential Technology Direct Plan Growth
 ICICI Prudential Innovation Fund Direct Growth
 About ICICI Prudential Technology Direct Plan Growth
 ICICI Prudential Technology Direct Plan Growth is a Equity Mutual Fund Scheme launched by ICICI Prudential Mutual Fund. This scheme was made available to investors on 11 Oct 1993. Sharmila D'Silva is the Current Fund Manager of ICICI Prudential Technology Direct Plan Growth fund. The fund currently
-ICICI Prudential Technology Direct Plan Growth is a Equity Mutual Fund Scheme launched by ICICI Prudential Mutual Fund. This scheme was made available to investors on 11 Oct 1993. Sharmila D'Silva is the Current Fund Manager of ICICI Prudential Technology Direct Plan Growth fund. The fund currently has an Asset Under Management(AUM) of ₹11,56,100 Cr and the Latest NAV as of 25 Aug 2026 is ₹207.04.
+ICICI Prudential Technology Direct Plan Growth is a Equity Mutual Fund Scheme launched by ICICI Prudential Mutual Fund. This scheme was made available to investors on 11 Oct 1993. Sharmila D'Silva is the Current Fund Manager of ICICI Prudential Technology Direct Plan Growth fund. The fund currently has an Asset Under Management(AUM) of ₹11,56,100 Cr and the Latest NAV as of 26 Aug 2026 is ₹205.30.
 The ICICI Prudential Technology Direct Plan Growth is rated Very High risk. Minimum SIP Investment is set to ₹100. Minimum Lumpsum Investment is ₹5,000. Exit load of 1% if redeemed within 15 days
 ...Read more
 Investment Objective
@@ -533,10 +529,10 @@ Address
 7th Floor, Tower II, Rayala Towers, 158, Anna Salai,
 Recently viewed
 HDFC Small Cap Fund Direct Growth
-+12.06%
++12.14%
 3Y
 HDFC Mid Cap Fund Direct Growth
-+19.73%
++19.66%
 3Y
 FAQs
 How to Invest in ICICI Prudential Technology Direct Plan Growth?
@@ -549,17 +545,17 @@ In order to invest, you will have to complete all the KYC formalities which are 
 Once you are done with that, you can start investing in ICICI Prudential Technology Direct Plan Growth as SIP or lumpsum as per your
         investment objective and risk tolerance
 What kind of returns does ICICI Prudential Technology Direct Plan Growth provide?
-The ICICI Prudential Technology Direct Plan Growth has been there from 01 Jan 2013 and the average annual returns provided by this fund is 18.87% since its inception.
+The ICICI Prudential Technology Direct Plan Growth has been there from 01 Jan 2013 and the average annual returns provided by this fund is 18.83% since its inception.
 How much expense ratio is charged by ICICI Prudential Technology Direct Plan Growth?
 The term
 Expense Ratio
 used for ICICI Prudential Technology Direct Plan Growth or any other mutual fund is the annual
         charges one needs to pay to the Mutual Fund company for managing your investments in that fund.
-The Expense Ratio of ICICI Prudential Technology Direct Plan Growth is 1.22% as of 26 Aug 2026...
+The Expense Ratio of ICICI Prudential Technology Direct Plan Growth is 1.22% as of 27 Aug 2026...
 What is the AUM of ICICI Prudential Technology Direct Plan Growth?
 The AUM, short for
 Assets Under Management
-of ICICI Prudential Technology Direct Plan Growth is ₹13,540.47Cr as of 26 Aug 2026.
+of ICICI Prudential Technology Direct Plan Growth is ₹13,540.47Cr as of 27 Aug 2026.
 How to Redeem ICICI Prudential Technology Direct Plan Growth?
 If you want to sell your ICICI Prudential Technology Direct Plan Growth holdings, go to your holding on the app or
         web and simply click on it. You will get two options - redeem & invest more; click on redeem and enter your
@@ -572,7 +568,7 @@ Lumpsum
 investment of ICICI Prudential Technology Direct Plan Growth based on
         your investment objective and risk tolerance.
 What is the NAV of ICICI Prudential Technology Direct Plan Growth?
-The NAV of ICICI Prudential Technology Direct Plan Growth is ₹207.04 as of 25 Aug 2026.
+The NAV of ICICI Prudential Technology Direct Plan Growth is ₹205.30 as of 26 Aug 2026.
 What is the PE and PB ratio of ICICI Prudential Technology Direct Plan Growth?
 The
 PE ratio
