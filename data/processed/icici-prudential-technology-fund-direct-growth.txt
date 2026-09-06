@@ -61,20 +61,20 @@ Monthly investment
 ₹100
 1 year
 ₹1,200
-₹1,203
-+0.25%
+₹1,197
+-0.25%
 3 years
 ₹3,600
-₹3,616
-+0.44%
+₹3,600
++0.00%
 5 years
 ₹6,000
-₹6,806
-+13.43%
+₹6,774
++12.90%
 10 years
 ₹12,000
-₹27,857
-+132.14%
+₹27,720
++131.00%
 Holdings (74)
 Infosys Ltd
 Technology
@@ -400,7 +400,7 @@ Category average (Equity Sectoral)
 Rank (Equity Sectoral)
 4
 5
-3
+2
 --
 Expense ratio
 A fee payable to a mutual fund house for managing your mutual fund investments.     It is the total percentage of a company's fund assets used for administrative, management, advertising, and other expenses.
@@ -551,11 +551,11 @@ The term
 Expense Ratio
 used for ICICI Prudential Technology Direct Plan Growth or any other mutual fund is the annual
         charges one needs to pay to the Mutual Fund company for managing your investments in that fund.
-The Expense Ratio of ICICI Prudential Technology Direct Plan Growth is 1.20% as of 05 Sep 2026...
+The Expense Ratio of ICICI Prudential Technology Direct Plan Growth is 1.20% as of 06 Sep 2026...
 What is the AUM of ICICI Prudential Technology Direct Plan Growth?
 The AUM, short for
 Assets Under Management
-of ICICI Prudential Technology Direct Plan Growth is ₹13,540.47Cr as of 05 Sep 2026.
+of ICICI Prudential Technology Direct Plan Growth is ₹13,540.47Cr as of 06 Sep 2026.
 How to Redeem ICICI Prudential Technology Direct Plan Growth?
 If you want to sell your ICICI Prudential Technology Direct Plan Growth holdings, go to your holding on the app or
         web and simply click on it. You will get two options - redeem & invest more; click on redeem and enter your
