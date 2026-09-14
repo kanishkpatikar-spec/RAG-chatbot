@@ -61,233 +61,229 @@ Monthly investment
 ₹100
 1 year
 ₹1,200
-₹1,157
--3.58%
+₹1,162
+-3.17%
 3 years
 ₹3,600
-₹3,473
--3.53%
+₹3,489
+-3.08%
 5 years
 ₹6,000
-₹6,529
-+8.82%
+₹6,558
++9.30%
 10 years
 ₹12,000
-₹26,666
-+122.22%
-Holdings (74)
+₹26,778
++123.15%
+Holdings (73)
 Infosys Ltd
 Technology
 Equity
-12.80%
+12.34%
 Bharti Airtel Ltd
 Technology
 Equity
-12.56%
+11.44%
 Tech Mahindra Ltd
 Technology
 Equity
-7.51%
-Coforge Ltd
-Technology
-Equity
-4.48%
+7.61%
 Mphasis Ltd
 Technology
 Equity
-4.41%
-LTIMindtree Ltd
+4.53%
+Coforge Ltd
 Technology
 Equity
-3.38%
+4.30%
 Cognizant Technology Solutions Corp Forgn. Eq (CTSH)
 Technology
 Foreign - Equity
-3.01%
-Wipro Ltd
+3.48%
+LTIMindtree Ltd
 Technology
 Equity
-2.67%
-Persistent Systems Ltd
-Technology
-Equity
-2.54%
+2.71%
 Sagility India Ltd.
 Industrials
 Equity
-2.39%
-Bharti Hexacom Ltd.
+2.57%
+Wipro Ltd
 Technology
 Equity
-2.32%
-HCL Technologies Ltd
-Technology
-Equity
-2.20%
+2.56%
 Zomato Ltd
 Technology
 Equity
-2.18%
+2.35%
+Persistent Systems Ltd
+Technology
+Equity
+2.28%
+Bharti Hexacom Ltd.
+Technology
+Equity
+2.21%
+HCL Technologies Ltd
+Technology
+Equity
+2.13%
+Cyient Ltd
+Technology
+Equity
+1.97%
+Repo
+Unspecified
+Repo
+1.89%
 Swiggy Ltd.
 Technology
 Equity
-1.91%
+1.87%
 Info Edge (India) Ltd
 Technology
 Equity
-1.76%
+1.87%
 HEXAWARE TECHNOLOGIES LIMITED EQ NEW FV RS.2/-
 Technology
 Equity
-1.53%
+1.49%
 Mastek Ltd
 Technology
 Equity
-1.39%
-C.E. Info Systems Ltd
-Technology
-Equity
-1.35%
+1.29%
 Tata Consultancy Services Ltd
 Technology
 Equity
 1.26%
-Indiamart Intermesh Ltd
-Industrials
-Equity
-1.25%
 RateGain Travel Technologies Ltd
 Technology
 Equity
-1.23%
-Repo
-Unspecified
-Repo
-1.20%
-WeWork India Management Ltd.
+1.24%
+Indiamart Intermesh Ltd
 Industrials
 Equity
-1.17%
-Cyient Ltd
+1.21%
+C.E. Info Systems Ltd
 Technology
 Equity
-1.15%
-Amagi Media Labs Ltd.
-Technology
-Equity
-1.09%
+1.14%
 L&T Technology Services Ltd
 Technology
 Equity
-1.09%
-Computer Age Management Services Ltd
-Financial
+1.10%
+WeWork India Management Ltd.
+Industrials
 Equity
-1.05%
+1.07%
 Hindustan Aeronautics Ltd
 Industrials
 Equity
-1.02%
-KPIT Technologies Ltd
-Technology
+1.04%
+Computer Age Management Services Ltd
+Financial
 Equity
-0.96%
+1.03%
 Netweb Technologies India Ltd.
 Technology
 Equity
-0.90%
+1.03%
 PB Fintech Ltd
 Financial
 Equity
-0.88%
-Sonata Software Ltd
-Technology
-Equity
-0.87%
+1.02%
 Adobe Systems Inc. (USA) Forgn. Eq (ADBE)
 Technology
 Foreign - Equity
-0.84%
-Angel One Ltd
-Financial
-Equity
-0.78%
-Birlasoft Ltd
+0.98%
+Amagi Media Labs Ltd.
 Technology
 Equity
-0.76%
-eClerx Services Ltd
+0.95%
+KPIT Technologies Ltd
 Technology
 Equity
-0.73%
+0.93%
 Multi Commodity Exchange Of India Ltd
 Financial
 Equity
-0.72%
+0.91%
 Indegene Ltd.
 Healthcare
 Equity
-0.71%
-Zensar Technologies Ltd
-Technology
-Equity
-0.69%
-Accenture PLC Forgn. Eq (ACN)
-Technology
-Foreign - Equity
-0.65%
-Delhivery Ltd
-Industrials
-Equity
-0.61%
-Firstsource Solutions Ltd
-Industrials
-Equity
-0.61%
-Pine Labs Ltd.
-Technology
-Equity
-0.61%
-Inventurus Knowledge Solutions Ltd.
-Industrials
-Equity
-0.60%
-Brainbees Solutions Ltd.
-Consumer Discretionary
-Equity
-0.52%
-Amazon. com Inc. (USA) Forgn. Eq (AMZN)
-Consumer Discretionary
-Foreign - Equity
-0.45%
+0.84%
 Physicswallah Ltd.
 Consumer Staples
 Equity
-0.45%
-GOVERNMENT OF INDIA 36371 364 DAYS TBILL 28AG26 FV RS 100
+0.79%
+Sonata Software Ltd
+Technology
+Equity
+0.78%
+Angel One Ltd
 Financial
-Treasury Bills
+Equity
+0.74%
+Accenture PLC Forgn. Eq (ACN)
+Technology
+Foreign - Equity
+0.73%
+Birlasoft Ltd
+Technology
+Equity
+0.73%
+Pine Labs Ltd.
+Technology
+Equity
+0.71%
+Net Current Assets
+Unspecified
+Net Current Assets
+0.68%
+eClerx Services Ltd
+Technology
+Equity
+0.67%
+Zensar Technologies Ltd
+Technology
+Equity
+0.62%
+Cash Margin
+Unspecified
+Cash Margin
+0.60%
+Delhivery Ltd
+Industrials
+Equity
+0.58%
+Inventurus Knowledge Solutions Ltd.
+Industrials
+Equity
+0.56%
+Firstsource Solutions Ltd
+Industrials
+Equity
+0.48%
+Brainbees Solutions Ltd.
+Consumer Discretionary
+Equity
 0.44%
+Zinka Logistics Solutions Ltd.
+Industrials
+Equity
+0.43%
+Amazon. com Inc. (USA) Forgn. Eq (AMZN)
+Consumer Discretionary
+Foreign - Equity
+0.42%
 Yatra Online Ltd.
 Consumer Discretionary
 Equity
 0.40%
-Zinka Logistics Solutions Ltd.
-Industrials
-Equity
-0.40%
-Wipro Ltd Futures
-Technology
-Futures
-0.39%
 Fractal Analytics Ltd.
 Technology
 Equity
-0.36%
-Cash Margin
-Unspecified
-Cash Margin
-0.35%
+0.38%
 Affle (India) Ltd
 Industrials
 Equity
@@ -295,53 +291,49 @@ Equity
 TBO Tek Ltd.
 Consumer Discretionary
 Equity
-0.26%
-NIIT Learning Systems Ltd
-Consumer Staples
-Equity
-0.26%
-Tata Elxsi Ltd
+0.29%
+Tata Communications Ltd
 Technology
 Equity
 0.25%
-BSE Ltd
-Financial
+NIIT Learning Systems Ltd
+Consumer Staples
 Equity
-0.20%
+0.24%
+Tata Elxsi Ltd
+Technology
+Equity
+0.24%
 Axiscades Technologies Ltd
 Industrials
 Equity
-0.19%
-Capillary Technologies India Ltd.
-Technology
-Equity
-0.18%
+0.20%
 EPAM Systems Inc (EPAM)
 Technology
 Foreign - Equity
-0.18%
+0.20%
 TeamLease Services Ltd
 Industrials
 Equity
 0.18%
-GOVERNMENT OF INDIA 37448 091 DAYS TBILL 20AG26 FV RS 100
+BSE Ltd
 Financial
-Treasury Bills
-0.15%
-GOVERNMENT OF INDIA 37456 091 DAYS TBILL 28AG26 FV RS 100
-Financial
-Treasury Bills
-0.13%
+Equity
+0.18%
+Capillary Technologies India Ltd.
+Technology
+Equity
+0.18%
 Tata Technologies Ltd
 Technology
 Equity
-0.12%
-Intellect Design Arena Ltd
-Technology
-Equity
-0.10%
+0.14%
 PVR Ltd
 Consumer Discretionary
+Equity
+0.10%
+Intellect Design Arena Ltd
+Technology
 Equity
 0.09%
 Onward Technologies Ltd
@@ -351,7 +343,7 @@ Equity
 Route Mobile Ltd
 Technology
 Equity
-0.06%
+0.05%
 INOX INDIA LIMITED EQ
 Energy & Utilities
 Equity
@@ -359,7 +351,7 @@ Equity
 Updater Services Ltd.
 Industrials
 Equity
-0.04%
+0.05%
 Shadowfax Technologies Ltd.
 Industrials
 Equity
@@ -368,10 +360,14 @@ Tracxn Technologies Ltd
 Industrials
 Equity
 0.01%
-Net Payables
-Unspecified
-Net Payables
--0.47%
+N I I T Technologies Ltd Futures
+Technology
+Futures
+-0.02%
+Persistent Systems Limited
+Technology
+Futures
+-0.23%
 See All
 Min. for 1st investment
 ₹5,000
@@ -398,7 +394,7 @@ Category average (Equity Sectoral)
 +17.2%
 --
 Rank (Equity Sectoral)
-4
+5
 5
 2
 --
@@ -551,11 +547,11 @@ The term
 Expense Ratio
 used for ICICI Prudential Technology Direct Plan Growth or any other mutual fund is the annual
         charges one needs to pay to the Mutual Fund company for managing your investments in that fund.
-The Expense Ratio of ICICI Prudential Technology Direct Plan Growth is 1.21% as of 12 Sep 2026...
+The Expense Ratio of ICICI Prudential Technology Direct Plan Growth is 1.21% as of 14 Sep 2026...
 What is the AUM of ICICI Prudential Technology Direct Plan Growth?
 The AUM, short for
 Assets Under Management
-of ICICI Prudential Technology Direct Plan Growth is ₹13,660.98Cr as of 12 Sep 2026.
+of ICICI Prudential Technology Direct Plan Growth is ₹13,660.98Cr as of 14 Sep 2026.
 How to Redeem ICICI Prudential Technology Direct Plan Growth?
 If you want to sell your ICICI Prudential Technology Direct Plan Growth holdings, go to your holding on the app or
         web and simply click on it. You will get two options - redeem & invest more; click on redeem and enter your
