@@ -55,8 +55,8 @@ Axis Small Cap Fund Direct Growth - NAV, Mutual Fund Performance & Portfolio
 3Y
 5Y
 All
-NAV: 24 Sep '26
-₹135.73
+NAV: 25 Sep '26
+₹136.07
 Min. for SIP
 ₹100
 Fund size (AUM)
@@ -72,20 +72,20 @@ Monthly investment
 ₹100
 1 year
 ₹1,200
-₹1,337
-+11.42%
+₹1,305
++8.75%
 3 years
 ₹3,600
-₹4,366
-+21.28%
+₹4,270
++18.61%
 5 years
 ₹6,000
-₹9,052
-+50.87%
+₹8,842
++47.37%
 10 years
 ₹12,000
-₹35,882
-+199.02%
+₹34,978
++191.48%
 Holdings (132)
 Others CBLO
 Unspecified
@@ -634,15 +634,15 @@ Fund returns
 +15.8%
 +15.8%
 +19.4%
-+22.5%
-Category average (Equity Small Cap)
-+19.7%
 +22.6%
-+16.1%
---
+Category average (Equity Small Cap)
++16.8%
++16.4%
++17.8%
++20.4%
 Rank (Equity Small Cap)
 18
-13
+14
 2
 --
 Expense ratio
@@ -667,24 +667,24 @@ If you redeem within one year, returns are taxed at 20%. If you redeem after one
 Check past data
 Compare similar funds
 ITI Small Cap Fund Direct Growth
-+20.94%
++21.81%
 +25.31%
 3,602.85
 Bandhan Small Cap Fund Direct Growth
-+11.51%
-+25.26%
++12.47%
++25.16%
 34,176.02
 Invesco India Small Cap Fund Direct Growth
-+16.07%
-+23.54%
++16.74%
++23.49%
 15,744.40
 Sundaram Small Cap Fund Direct Growth
-+13.80%
++14.49%
 +17.17%
 4,155.35
 Nippon India Small Cap Fund Direct Growth
-+8.83%
-+15.72%
++9.62%
++15.71%
 82,580.31
 Compare
 Fund management
@@ -736,7 +736,7 @@ Axis Services Opportunities Fund Direct Growth
 Axis Multi Asset Omni FoF Direct Growth
 About Axis Small Cap Fund Direct Growth
 Axis Small Cap Fund Direct Growth is a Equity Mutual Fund Scheme launched by Axis Mutual Fund. This scheme was made available to investors on 03 Sep 2009. Mayank Hyanki is the Current Fund Manager of Axis Small Cap Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹3,
-Axis Small Cap Fund Direct Growth is a Equity Mutual Fund Scheme launched by Axis Mutual Fund. This scheme was made available to investors on 03 Sep 2009. Mayank Hyanki is the Current Fund Manager of Axis Small Cap Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹3,92,677 Cr and the Latest NAV as of 24 Sep 2026 is ₹135.73.
+Axis Small Cap Fund Direct Growth is a Equity Mutual Fund Scheme launched by Axis Mutual Fund. This scheme was made available to investors on 03 Sep 2009. Mayank Hyanki is the Current Fund Manager of Axis Small Cap Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹3,92,677 Cr and the Latest NAV as of 25 Sep 2026 is ₹136.07.
 The Axis Small Cap Fund Direct Growth is rated Very High risk. Minimum SIP Investment is set to ₹100. Minimum Lumpsum Investment is ₹100. Exit load of 1% for investments beyond 10% if redeemed within 12 months
 ...Read more
 Investment Objective
@@ -779,7 +779,7 @@ Nippon India Small Cap Fund Direct Growth
 +15.72%
 3Y
 ICICI Prudential Technology Direct Plan Growth
-+5.08%
++4.46%
 3Y
 HDFC Small Cap Fund Direct Growth
 +11.16%
@@ -804,11 +804,11 @@ The term
 Expense Ratio
 used for Axis Small Cap Fund Direct Growth or any other mutual fund is the annual
         charges one needs to pay to the Mutual Fund company for managing your investments in that fund.
-The Expense Ratio of Axis Small Cap Fund Direct Growth is 0.71% as of 25 Sep 2026...
+The Expense Ratio of Axis Small Cap Fund Direct Growth is 0.71% as of 26 Sep 2026...
 What is the AUM of Axis Small Cap Fund Direct Growth?
 The AUM, short for
 Assets Under Management
-of Axis Small Cap Fund Direct Growth is ₹31,448.32Cr as of 25 Sep 2026.
+of Axis Small Cap Fund Direct Growth is ₹31,448.32Cr as of 26 Sep 2026.
 How to Redeem Axis Small Cap Fund Direct Growth?
 If you want to sell your Axis Small Cap Fund Direct Growth holdings, go to your holding on the app or
         web and simply click on it. You will get two options - redeem & invest more; click on redeem and enter your
@@ -821,7 +821,7 @@ Lumpsum
 investment of Axis Small Cap Fund Direct Growth based on
         your investment objective and risk tolerance.
 What is the NAV of Axis Small Cap Fund Direct Growth?
-The NAV of Axis Small Cap Fund Direct Growth is ₹135.73 as of 24 Sep 2026.
+The NAV of Axis Small Cap Fund Direct Growth is ₹136.07 as of 25 Sep 2026.
 What is the PE and PB ratio of Axis Small Cap Fund Direct Growth?
 The
 PE ratio
