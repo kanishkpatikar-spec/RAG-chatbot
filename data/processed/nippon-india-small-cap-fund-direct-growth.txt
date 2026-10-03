@@ -1135,12 +1135,12 @@ Fund returns
 +20.8%
 +23.6%
 Category average (Equity Small Cap)
-+16.8%
-+16.4%
-+17.8%
-+20.4%
++15.2%
++15.7%
++17.6%
++20.1%
 Rank (Equity Small Cap)
-16
+19
 6
 1
 --
@@ -1342,7 +1342,7 @@ Name
 Nippon India Small Cap Fund Direct IDCW
 Recently viewed
 ICICI Prudential Technology Direct Plan Growth
-+4.51%
++4.73%
 3Y
 HDFC Small Cap Fund Direct Growth
 +9.67%
@@ -1367,11 +1367,11 @@ The term
 Expense Ratio
 used for Nippon India Small Cap Fund Direct Growth or any other mutual fund is the annual
         charges one needs to pay to the Mutual Fund company for managing your investments in that fund.
-The Expense Ratio of Nippon India Small Cap Fund Direct Growth is 0.69% as of 02 Oct 2026...
+The Expense Ratio of Nippon India Small Cap Fund Direct Growth is 0.69% as of 03 Oct 2026...
 What is the AUM of Nippon India Small Cap Fund Direct Growth?
 The AUM, short for
 Assets Under Management
-of Nippon India Small Cap Fund Direct Growth is ₹82,580.30Cr as of 02 Oct 2026.
+of Nippon India Small Cap Fund Direct Growth is ₹82,580.30Cr as of 03 Oct 2026.
 How to Redeem Nippon India Small Cap Fund Direct Growth?
 If you want to sell your Nippon India Small Cap Fund Direct Growth holdings, go to your holding on the app or
         web and simply click on it. You will get two options - redeem & invest more; click on redeem and enter your
