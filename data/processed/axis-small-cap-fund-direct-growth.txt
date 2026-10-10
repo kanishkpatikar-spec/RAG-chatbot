@@ -47,7 +47,7 @@ Axis Small Cap Fund Direct Growth - NAV, Mutual Fund Performance & Portfolio
 9
 %
 3Y annualised
--1.94%
++0.62%
 1D
 1M
 6M
@@ -55,12 +55,12 @@ Axis Small Cap Fund Direct Growth - NAV, Mutual Fund Performance & Portfolio
 3Y
 5Y
 All
-NAV: 08 Oct '26
-₹131.44
+NAV: 09 Oct '26
+₹132.26
 Min. for SIP
 ₹100
 Fund size (AUM)
-₹31,448.31 Cr
+₹30,677.52 Cr
 Expense ratio
 0.69%
 Rating
@@ -86,338 +86,334 @@ Monthly investment
 ₹12,000
 ₹33,714
 +180.95%
-Holdings (132)
+Holdings (130)
 Others CBLO
 Unspecified
 CBLO
-7.43%
+8.69%
 Krishna Institute Of Medical Sciences Ltd
 Healthcare
 Equity
-2.43%
+2.46%
 Torrent Pharmaceuticals Ltd
 Healthcare
 Equity
-2.39%
+2.32%
 CCL Products (India) Ltd
 Consumer Staples
 Equity
-2.31%
+2.24%
 City Union Bank Ltd
 Financial
 Equity
-1.91%
-Sai Life Sciences Ltd.
-Healthcare
-Equity
-1.75%
-Brigade Enterprises Ltd
-Real Estate
-Equity
-1.71%
+1.94%
 Sansera Engineering Ltd
 Consumer Discretionary
 Equity
-1.66%
-Avalon Technologies Ltd.
-Industrials
+1.86%
+Sai Life Sciences Ltd.
+Healthcare
 Equity
-1.52%
-Navin Fluorine International Ltd
-Materials
+1.84%
+Brigade Enterprises Ltd
+Real Estate
 Equity
-1.44%
-Craftsman Automation Ltd
-Consumer Discretionary
-Equity
-1.40%
-Karur Vysya Bank Ltd
-Financial
-Equity
-1.34%
-Cholamandalam Financial Holdings Ltd
-Financial
-Equity
-1.31%
-Minda Corporation Ltd
-Consumer Discretionary
-Equity
-1.31%
+1.54%
 Welspun Corp Ltd
 Materials
 Equity
+1.51%
+Avalon Technologies Ltd.
+Industrials
+Equity
+1.51%
+Syrma SGS Technology Ltd
+Technology
+Equity
+1.45%
+Navin Fluorine International Ltd
+Materials
+Equity
+1.40%
+Craftsman Automation Ltd
+Consumer Discretionary
+Equity
+1.33%
+Minda Corporation Ltd
+Consumer Discretionary
+Equity
 1.30%
+Kirloskar Oil Engines Ltd
+Industrials
+Equity
+1.29%
+Karur Vysya Bank Ltd
+Financial
+Equity
+1.28%
+HDFC Bank Ltd
+Financial
+Equity
+1.26%
+Cholamandalam Financial Holdings Ltd
+Financial
+Equity
+1.25%
 PNB Housing Finance Ltd
 Financial
 Equity
 1.24%
-HDFC Bank Ltd
-Financial
+Gland Pharma Ltd
+Healthcare
 Equity
-1.23%
-Multi Commodity Exchange Of India Ltd
-Financial
-Equity
-1.17%
-Kirloskar Oil Engines Ltd
-Industrials
-Equity
-1.15%
-Syrma SGS Technology Ltd
-Technology
-Equity
-1.14%
-Kalpataru Power Transmission Ltd
-Industrials
-Equity
-1.14%
+1.22%
 Blue Star Ltd
 Industrials
 Equity
-1.13%
+1.20%
+Multi Commodity Exchange Of India Ltd
+Financial
+Equity
+1.16%
+Kalpataru Power Transmission Ltd
+Industrials
+Equity
+1.15%
 TBO Tek Ltd.
 Consumer Discretionary
 Equity
-1.11%
-S.J.S Enterprises Ltd
-Consumer Discretionary
+1.10%
+Galaxy Surfactants Ltd
+Materials
 Equity
-1.09%
+1.07%
+Phoenix Mills Ltd
+Real Estate
+Equity
+1.06%
 Fine Organic Industries Ltd
 Materials
 Equity
 1.06%
-PB Fintech Ltd
-Financial
-Equity
-1.06%
-Phoenix Mills Ltd
-Real Estate
-Equity
-1.02%
-Narayana Hrudayalaya Ltd
-Healthcare
-Equity
-1.01%
-Galaxy Surfactants Ltd
-Materials
-Equity
-1.01%
-Vijaya Diagnostic Centre Ltd
-Healthcare
-Equity
-1.00%
 RBL Bank Ltd
 Financial
 Equity
-0.95%
-Cyient Ltd
-Technology
+1.03%
+S.J.S Enterprises Ltd
+Consumer Discretionary
 Equity
-0.93%
+1.01%
+Narayana Hrudayalaya Ltd
+Healthcare
+Equity
+0.97%
+Vijaya Diagnostic Centre Ltd
+Healthcare
+Equity
+0.97%
 Vesuvius India Ltd
 Industrials
 Equity
-0.89%
-R R Kabel Ltd.
-Industrials
+0.95%
+Aditya Infotech Ltd.
+Technology
 Equity
-0.88%
-Gland Pharma Ltd
-Healthcare
+0.94%
+Cyient Ltd
+Technology
 Equity
-0.87%
-Can Fin Homes Ltd
-Financial
-Equity
-0.87%
-DEWAN HOUSING FINANCE CORP. LTD. EQ
-Financial
-Equity
-0.86%
+0.90%
 Ujjivan Small Finance Bank Ltd
 Financial
 Equity
 0.85%
-NIFTY September 2026 Future
-Financial
-Index Derivatives
-0.85%
 DOMS Industries Ltd.
 Industrials
 Equity
-0.84%
-RateGain Travel Technologies Ltd
-Technology
-Equity
-0.82%
-Data Patterns (India) Ltd
-Industrials
-Equity
-0.80%
+0.81%
 Radico Khaitan Ltd
 Consumer Staples
 Equity
 0.79%
-Happy Forgings Ltd.
-Materials
-Equity
-0.79%
-Sudarshan Chemical Industries Ltd
-Materials
-Equity
-0.78%
-Sagility India Ltd.
-Industrials
-Equity
-0.77%
 Sudeep Pharma Ltd.
 Healthcare
 Equity
+0.79%
+Can Fin Homes Ltd
+Financial
+Equity
+0.78%
+DEWAN HOUSING FINANCE CORP. LTD. EQ
+Financial
+Equity
+0.78%
+Data Patterns (India) Ltd
+Industrials
+Equity
+0.78%
+R R Kabel Ltd.
+Industrials
+Equity
 0.77%
-Healthcare Global Enterprises Ltd
-Healthcare
+RateGain Travel Technologies Ltd
+Technology
+Equity
+0.77%
+Sudarshan Chemical Industries Ltd
+Materials
 Equity
 0.76%
-KFin Technologies Ltd
-Financial
+Carborundum Universal Ltd
+Materials
 Equity
 0.74%
-Union Bank of India
-Financial
-Equity
-0.74%
-CreditAccess Grameen Ltd
-Financial
-Equity
-0.74%
-Mrs. Bectors Food Specialities Ltd
-Consumer Staples
-Equity
-0.73%
-JK Lakshmi Cement Ltd
+Neogen Chemicals Ltd
 Materials
 Equity
 0.73%
-Coforge Ltd
-Technology
+Sagility India Ltd.
+Industrials
+Equity
+0.72%
+Healthcare Global Enterprises Ltd
+Healthcare
+Equity
+0.71%
+CreditAccess Grameen Ltd
+Financial
 Equity
 0.71%
 Kaynes Technology India Ltd
 Industrials
 Equity
-0.71%
-Aditya Infotech Ltd.
-Technology
-Equity
-0.71%
-Laurus Labs Ltd
-Healthcare
-Equity
-0.70%
-Gujarat Fluorochemicals Ltd
+0.69%
+Happy Forgings Ltd.
 Materials
 Equity
-0.70%
-Crompton Greaves Consumer Electricals Ltd
-Consumer Discretionary
-Equity
 0.69%
-PG Electroplast Ltd
-Industrials
-Equity
-0.69%
-Niva Bupa Health Insurance Company Ltd.
-Financial
-Equity
-0.67%
-Jubilant Ingrevia Ltd
+JK Lakshmi Cement Ltd
 Materials
 Equity
-0.67%
-Computer Age Management Services Ltd
+0.69%
+Union Bank of India
 Financial
 Equity
-0.66%
-Affle (India) Ltd
-Industrials
-Equity
-0.65%
-Reliance Industries Ltd
-Energy & Utilities
-Equity
-0.65%
-Balrampur Chini Mills Ltd
+0.69%
+Mrs. Bectors Food Specialities Ltd
 Consumer Staples
 Equity
-0.65%
-Carborundum Universal Ltd
-Materials
-Equity
-0.64%
+0.68%
 Pine Labs Ltd.
 Technology
 Equity
-0.63%
-Ahluwalia Contracts (India) Ltd
+0.68%
+Gujarat Fluorochemicals Ltd
+Materials
+Equity
+0.67%
+Azad Engineering Ltd.
 Industrials
 Equity
-0.63%
-Equitas Small Finance Bank Ltd
+0.66%
+Jubilant Ingrevia Ltd
+Materials
+Equity
+0.66%
+KFin Technologies Ltd
 Financial
 Equity
+0.66%
+Coforge Ltd
+Technology
+Equity
+0.64%
+Balrampur Chini Mills Ltd
+Consumer Staples
+Equity
 0.63%
-Azad Engineering Ltd.
+Affle (India) Ltd
 Industrials
 Equity
 0.63%
 Timken India Ltd
 Industrials
 Equity
-0.62%
-Amber Enterprises India Ltd
+0.63%
+Niva Bupa Health Insurance Company Ltd.
+Financial
+Equity
+0.63%
+Crompton Greaves Consumer Electricals Ltd
 Consumer Discretionary
 Equity
+0.63%
+Reliance Industries Ltd
+Energy & Utilities
+Equity
+0.62%
+PB Fintech Ltd
+Financial
+Equity
+0.62%
+Equitas Small Finance Bank Ltd
+Financial
+Equity
 0.60%
+PG Electroplast Ltd
+Industrials
+Equity
+0.60%
+Inventurus Knowledge Solutions Ltd.
+Industrials
+Equity
+0.59%
 Grindwell Norton Ltd
 Materials
+Equity
+0.58%
+Laurus Labs Ltd
+Healthcare
+Equity
+0.58%
+Computer Age Management Services Ltd
+Financial
 Equity
 0.58%
 Apar Industries Ltd
 Diversified
 Equity
-0.57%
-Inventurus Knowledge Solutions Ltd.
+0.58%
+Ahluwalia Contracts (India) Ltd
 Industrials
 Equity
 0.57%
-Neogen Chemicals Ltd
-Materials
+Emcure Pharmaceuticals Ltd.
+Healthcare
 Equity
-0.57%
-Chalet Hotels Ltd
-Consumer Discretionary
-Equity
-0.54%
+0.55%
 RHI Magnesita India Ltd
 Materials
 Equity
-0.51%
-Gokaldas Exports Ltd
-Consumer Discretionary
-Equity
-0.51%
-Anant Raj Ltd
-Real Estate
-Equity
-0.51%
+0.55%
 Rolex Rings Ltd
 Industrials
 Equity
-0.50%
-Devyani International Ltd
+0.54%
+Amber Enterprises India Ltd
 Consumer Discretionary
 Equity
+0.54%
+Anant Raj Ltd
+Real Estate
+Equity
+0.52%
+Chalet Hotels Ltd
+Consumer Discretionary
+Equity
+0.51%
+Net Receivables
+Unspecified
+Net Receivables
 0.50%
 Mahindra Lifespace Developers Ltd
 Real Estate
@@ -426,61 +422,57 @@ Equity
 India Shelter Finance Corporation Ltd.
 Financial
 Equity
+0.50%
+GOVERNMENT OF INDIA 36692 364 DAYS TBILL 06NV26 FV RS 100
+Financial
+Treasury Bills
 0.49%
-Tech Mahindra Ltd
-Technology
-Equity
-0.48%
-Emcure Pharmaceuticals Ltd.
-Healthcare
-Equity
-0.48%
-Rainbow Childrens Medicare Ltd
-Healthcare
+Devyani International Ltd
+Consumer Discretionary
 Equity
 0.48%
 Time Technoplast Ltd
 Materials
 Equity
 0.47%
-GOVERNMENT OF INDIA 36692 364 DAYS TBILL 06NV26 FV RS 100
-Financial
-Treasury Bills
-0.47%
-Central Depository Services (India) Ltd
-Financial
-Equity
-0.47%
-Delhivery Ltd
-Industrials
-Equity
-0.47%
 Aditya Vision Ltd
 Consumer Discretionary
 Equity
-0.46%
-Aptus Value Housing Finance India Ltd
-Financial
+0.47%
+Tech Mahindra Ltd
+Technology
 Equity
-0.44%
+0.46%
+Coal India Ltd
+Materials
+Equity
+0.46%
+Gokaldas Exports Ltd
+Consumer Discretionary
+Equity
+0.46%
+Rainbow Childrens Medicare Ltd
+Healthcare
+Equity
+0.46%
 Onesource Specialty Pharma Ltd
 Healthcare
 Equity
-0.44%
+0.45%
 Mahindra CIE Automotive Ltd
 Consumer Discretionary
 Equity
 0.44%
+Central Depository Services (India) Ltd
+Financial
+Equity
+0.43%
+Delhivery Ltd
+Industrials
+Equity
+0.43%
 Deepak Fertilisers & Petrochemicals Corporation Ltd
 Materials
-Equity
-0.43%
-Coal India Ltd
-Materials
-Equity
-0.43%
-Arvind Fashions Ltd
-Consumer Discretionary
 Equity
 0.42%
 Tenneco Clean Air India Ltd.
@@ -491,99 +483,99 @@ Alembic Pharmaceuticals Ltd
 Healthcare
 Equity
 0.39%
-Orient Electric Ltd
+Arvind Fashions Ltd
 Consumer Discretionary
 Equity
-0.39%
-Tata Consumer Products Ltd
-Consumer Staples
-Equity
-0.36%
-Bharat Dynamics Ltd
-Industrials
-Equity
-0.35%
-Jyoti CNC Automation Ltd.
-Industrials
-Equity
-0.34%
-Aarti Industries Ltd
-Materials
-Equity
-0.33%
+0.37%
 Chemplast Sanmar Ltd
 Materials
 Equity
+0.35%
+Orient Electric Ltd
+Consumer Discretionary
+Equity
+0.35%
+Tata Consumer Products Ltd
+Consumer Staples
+Equity
+0.34%
+Aptus Value Housing Finance India Ltd
+Financial
+Equity
 0.33%
-Birlasoft Ltd
-Technology
+Aarti Industries Ltd
+Materials
 Equity
 0.31%
 Dhoot Transmission Ltd
 Consumer Discretionary
 Equity
+0.31%
+Birlasoft Ltd
+Technology
+Equity
 0.30%
+Alicon Castalloy Ltd
+Consumer Discretionary
+Equity
+0.29%
 DHFL VYSYA HOUSING FINANCE LIMITED EQ
 Financial
 Equity
-0.29%
+0.28%
+Ellenbarrie Industrial Gases Ltd
+Materials
+Equity
+0.27%
+Strides Pharma Science Ltd
+Healthcare
+Equity
+0.27%
 CESC Ltd
 Energy & Utilities
 Equity
-0.28%
-Havells India Ltd
-Consumer Discretionary
-Equity
-0.25%
+0.26%
 Titagarh Wagons Ltd
 Industrials
 Equity
 0.25%
-Ellenbarrie Industrial Gases Ltd
-Materials
-Equity
-0.24%
-Strides Pharma Science Ltd
-Healthcare
-Equity
-0.24%
-Heidelberg Cement India Ltd
-Materials
-Equity
-0.24%
-Ather Energy Ltd.
-Consumer Discretionary
-Equity
-0.24%
-PNC Infratech Ltd
-Industrials
-Equity
-0.23%
 Suprajit Engineering Ltd
 Consumer Discretionary
 Equity
 0.22%
-Alicon Castalloy Ltd
+Havells India Ltd
 Consumer Discretionary
 Equity
 0.21%
-SBFC Finance Ltd
-Financial
+Engineers India Ltd
+Industrials
+Equity
+0.21%
+Ather Energy Ltd.
+Consumer Discretionary
 Equity
 0.20%
-Midwest Ltd.
+Heidelberg Cement India Ltd
 Materials
 Equity
-0.20%
+0.19%
 Firstsource Solutions Ltd
 Industrials
 Equity
-0.19%
+0.18%
+Bharat Dynamics Ltd
+Industrials
+Equity
+0.18%
 Travel Food Services Ltd.
 Consumer Discretionary
 Equity
-0.19%
-Engineers India Ltd
+0.18%
+Midwest Ltd.
+Materials
+Equity
+0.17%
+PNC Infratech Ltd
 Industrials
 Equity
 0.17%
@@ -595,26 +587,26 @@ Power Grid Corporation of India Ltd
 Energy & Utilities
 Equity
 0.16%
+INDO-MIM Ltd.
+Industrials
+Equity
+0.15%
+SBFC Finance Ltd
+Financial
+Equity
+0.13%
+SEDEMAC Mechatronics Ltd.
+Industrials
+Equity
+0.12%
 Shriram Pistons & Rings Ltd
 Consumer Discretionary
 Equity
 0.11%
-INDO-MIM Ltd.
-Industrials
-Equity
-0.10%
 Century Textiles & Industries Ltd
 Materials
 Equity
-0.10%
-Jain Resource Recycling Ltd.
-Materials
-Equity
-0.04%
-Net Payables
-Unspecified
-Net Payables
--0.27%
+0.09%
 See All
 Min. for 1st investment
 ₹100
@@ -636,10 +628,10 @@ Fund returns
 +18.8%
 +22.2%
 Category average (Equity Small Cap)
-+15.2%
-+15.7%
-+17.6%
-+20.1%
++14.6%
++14.7%
++17.2%
++20.0%
 Rank (Equity Small Cap)
 17
 14
@@ -685,7 +677,7 @@ Sundaram Small Cap Fund Direct Growth
 Nippon India Small Cap Fund Direct Growth
 +6.68%
 +13.77%
-82,580.30
+80,905.55
 Compare
 Fund management
 Education
@@ -736,7 +728,7 @@ Axis Services Opportunities Fund Direct Growth
 Axis Multi Asset Omni FoF Direct Growth
 About Axis Small Cap Fund Direct Growth
 Axis Small Cap Fund Direct Growth is a Equity Mutual Fund Scheme launched by Axis Mutual Fund. This scheme was made available to investors on 03 Sep 2009. Mayank Hyanki is the Current Fund Manager of Axis Small Cap Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹3,
-Axis Small Cap Fund Direct Growth is a Equity Mutual Fund Scheme launched by Axis Mutual Fund. This scheme was made available to investors on 03 Sep 2009. Mayank Hyanki is the Current Fund Manager of Axis Small Cap Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹3,92,677 Cr and the Latest NAV as of 08 Oct 2026 is ₹131.44.
+Axis Small Cap Fund Direct Growth is a Equity Mutual Fund Scheme launched by Axis Mutual Fund. This scheme was made available to investors on 03 Sep 2009. Mayank Hyanki is the Current Fund Manager of Axis Small Cap Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹3,92,677 Cr and the Latest NAV as of 09 Oct 2026 is ₹132.26.
 The Axis Small Cap Fund Direct Growth is rated Very High risk. Minimum SIP Investment is set to ₹100. Minimum Lumpsum Investment is ₹100. Exit load of 1% for investments beyond 10% if redeemed within 12 months
 ...Read more
 Investment Objective
@@ -779,7 +771,7 @@ Nippon India Small Cap Fund Direct Growth
 +13.77%
 3Y
 ICICI Prudential Technology Direct Plan Growth
-+4.52%
++4.28%
 3Y
 HDFC Small Cap Fund Direct Growth
 +9.05%
@@ -804,11 +796,11 @@ The term
 Expense Ratio
 used for Axis Small Cap Fund Direct Growth or any other mutual fund is the annual
         charges one needs to pay to the Mutual Fund company for managing your investments in that fund.
-The Expense Ratio of Axis Small Cap Fund Direct Growth is 0.69% as of 09 Oct 2026...
+The Expense Ratio of Axis Small Cap Fund Direct Growth is 0.69% as of 10 Oct 2026...
 What is the AUM of Axis Small Cap Fund Direct Growth?
 The AUM, short for
 Assets Under Management
-of Axis Small Cap Fund Direct Growth is ₹31,448.31Cr as of 09 Oct 2026.
+of Axis Small Cap Fund Direct Growth is ₹30,677.52Cr as of 10 Oct 2026.
 How to Redeem Axis Small Cap Fund Direct Growth?
 If you want to sell your Axis Small Cap Fund Direct Growth holdings, go to your holding on the app or
         web and simply click on it. You will get two options - redeem & invest more; click on redeem and enter your
@@ -821,7 +813,7 @@ Lumpsum
 investment of Axis Small Cap Fund Direct Growth based on
         your investment objective and risk tolerance.
 What is the NAV of Axis Small Cap Fund Direct Growth?
-The NAV of Axis Small Cap Fund Direct Growth is ₹131.44 as of 08 Oct 2026.
+The NAV of Axis Small Cap Fund Direct Growth is ₹132.26 as of 09 Oct 2026.
 What is the PE and PB ratio of Axis Small Cap Fund Direct Growth?
 The
 PE ratio
