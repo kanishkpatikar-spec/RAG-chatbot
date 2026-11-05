@@ -23,7 +23,7 @@ Axis Small Cap Fund Direct Growth - NAV, Mutual Fund Performance & Portfolio
 8
 9
 .
-4
+7
 0
 1
 2
@@ -47,7 +47,7 @@ Axis Small Cap Fund Direct Growth - NAV, Mutual Fund Performance & Portfolio
 9
 %
 3Y annualised
-+0.69%
++1.45%
 1D
 NAV by date, 3Y range
 Date
@@ -66,8 +66,8 @@ NAV
 ₹101.39
 26 Feb 2024
 ₹102.26
-14 Mar 2024
-₹95.08
+17 Mar 2024
+₹94.80
 03 Apr 2024
 ₹101.69
 24 Apr 2024
@@ -82,104 +82,104 @@ NAV
 ₹117.31
 28 Jul 2024
 ₹118.86
-13 Aug 2024
-₹115.14
+15 Aug 2024
+₹117.50
 01 Sep 2024
 ₹120.73
 18 Sep 2024
 ₹124.37
-07 Oct 2024
-₹122.15
+08 Oct 2024
+₹123.46
 24 Oct 2024
 ₹117.15
 13 Nov 2024
 ₹116.38
-02 Dec 2024
-₹123.57
+03 Dec 2024
+₹124.52
 19 Dec 2024
 ₹122.53
-07 Jan 2025
-₹121.80
+08 Jan 2025
+₹120.60
 26 Jan 2025
 ₹110.88
 12 Feb 2025
 ₹108.73
-03 Mar 2025
-₹103.05
+04 Mar 2025
+₹105.09
 23 Mar 2025
 ₹111.90
 10 Apr 2025
 ₹107.88
-01 May 2025
-₹111.50
+04 May 2025
+₹112.61
 20 May 2025
 ₹117.89
-04 Jun 2025
-₹121.66
-23 Jun 2025
+05 Jun 2025
 ₹122.36
+24 Jun 2025
+₹123.79
 10 Jul 2025
 ₹124.35
-28 Jul 2025
-₹123.58
-17 Aug 2025
-₹122.79
+29 Jul 2025
+₹123.62
+18 Aug 2025
+₹123.36
 03 Sep 2025
 ₹122.35
-21 Sep 2025
-₹124.85
+22 Sep 2025
+₹124.55
 09 Oct 2025
 ₹123.05
-29 Oct 2025
-₹125.69
-18 Nov 2025
-₹124.77
+30 Oct 2025
+₹125.15
+19 Nov 2025
+₹124.60
 04 Dec 2025
 ₹121.50
-22 Dec 2025
-₹122.44
-11 Jan 2026
-₹118.36
+23 Dec 2025
+₹122.22
+12 Jan 2026
+₹119.13
 30 Jan 2026
 ₹116.75
-16 Feb 2026
-₹120.08
-05 Mar 2026
-₹115.24
-23 Mar 2026
-₹109.81
-14 Apr 2026
-₹118.60
-04 May 2026
-₹124.56
-20 May 2026
-₹124.24
-08 Jun 2026
-₹124.43
+17 Feb 2026
+₹120.56
+08 Mar 2026
+₹113.28
+24 Mar 2026
+₹112.29
+15 Apr 2026
+₹119.55
+05 May 2026
+₹126.14
+21 May 2026
+₹124.14
+09 Jun 2026
+₹123.34
 28 Jun 2026
 ₹129.71
-14 Jul 2026
-₹133.10
-02 Aug 2026
-₹134.53
-18 Aug 2026
-₹137.10
-06 Sep 2026
-₹138.00
-24 Sep 2026
-₹136.07
-13 Oct 2026
-₹133.56
-02 Nov 2026
-₹129.24
+15 Jul 2026
+₹133.23
+03 Aug 2026
+₹134.42
+19 Aug 2026
+₹137.98
+07 Sep 2026
+₹138.49
+27 Sep 2026
+₹134.11
+14 Oct 2026
+₹132.06
+03 Nov 2026
+₹131.11
 1M
 6M
 1Y
 3Y
 5Y
 All
-NAV: 03 Nov '26
-₹129.24
+NAV: 04 Nov '26
+₹131.11
 Min. for SIP
 ₹100
 Fund size (AUM)
@@ -195,20 +195,20 @@ Monthly investment
 ₹100
 1 year
 ₹1,200
-₹1,238
-+3.17%
+₹1,264
++5.33%
 3 years
 ₹3,600
-₹3,971
-+10.31%
+₹4,055
++12.64%
 5 years
 ₹6,000
-₹8,237
-+37.28%
+₹8,409
++40.15%
 10 years
 ₹12,000
-₹32,565
-+171.38%
+₹33,232
++176.93%
 Holdings (130)
 Others CBLO
 Unspecified
@@ -746,18 +746,18 @@ Returns and rankings
 Annualised returns
 Absolute returns
 Fund returns
-+13.4%
-+14.1%
-+18.4%
-+21.8%
++13.7%
++14.7%
++18.9%
++22.0%
 Category average (Equity Small Cap)
 +14.0%
 +14.2%
 +16.8%
 +19.6%
 Rank (Equity Small Cap)
-16
-13
+17
+12
 2
 --
 Expense ratio
@@ -782,24 +782,24 @@ If you redeem within one year, returns are taxed at 20%. If you redeem after one
 Check past data
 Compare similar funds
 Bandhan Small Cap Fund Direct Growth
-+2.57%
-+21.96%
++4.42%
++22.32%
 35,855.60
 ITI Small Cap Fund Direct Growth
-+12.22%
-+21.79%
++14.30%
++22.20%
 3,666.32
 Invesco India Small Cap Fund Direct Growth
-+8.66%
-+20.12%
++11.56%
++20.64%
 16,130.64
 Sundaram Small Cap Fund Direct Growth
-+3.99%
-+13.92%
++5.34%
++14.16%
 4,106.99
 Nippon India Small Cap Fund Direct Growth
-+1.69%
-+13.18%
++3.49%
++13.61%
 80,905.55
 Compare
 Fund management
@@ -861,9 +861,40 @@ Axis ELSS Tax Saver Direct Growth
 Axis Large & Mid Cap Fund Direct Growth
 Axis Small Cap Fund Direct Growth
 Axis Multi Asset Omni FoF Direct Growth
+Education
+Mr. Tibrewal is a B.Com, LLB (Gen) and MBA (Finance).
+Experience
+Prior to joining Axis Mutual Fund, he has worked with Inditrade Capital Ltd., Edelweiss Mutual Fund and Edelweiss Commodities trading Ltd..
+Also manages these schemes
+Axis Value Fund Direct Growth
+Axis Momentum Fund Direct Growth
+Axis Multicap Fund Direct Growth
+Axis Consumption Fund Direct Growth
+Axis Silver FoF Direct Growth
+Axis Business Cycles Fund Direct Growth
+Axis India Manufacturing Fund Direct Growth
+Axis Balanced Advantage Fund Direct Growth
+Axis Flexi Cap Fund Direct Growth
+Axis Focused Direct Plan Growth
+Axis Large Cap Fund Direct Growth
+Axis Gold Direct Plan Growth
+Axis Aggressive Hybrid Fund Direct Growth
+Axis Conservative Hybrid Fund Direct Growth
+Axis Midcap Direct Plan Growth
+Axis Multi Asset Allocation Direct Plan Growth
+Axis ELSS Tax Saver Direct Growth
+Axis Large & Mid Cap Fund Direct Growth
+Axis Small Cap Fund Direct Growth
+Axis Arbitrage Fund Direct Growth
+Axis Equity Savings Fund Direct Growth
+Axis ESG Integration Strategy Fund Direct Growth
+Axis Innovation Fund Direct Growth
+Axis Quant Fund Direct Growth
+Axis Services Opportunities Fund Direct Growth
+Axis Gold and Silver Passive FoF Direct Growth
 About Axis Small Cap Fund Direct Growth
 Axis Small Cap Fund Direct Growth is a Equity Mutual Fund Scheme launched by Axis Mutual Fund. This scheme was made available to investors on 03 Sep 2009. Mayank Hyanki is the Current Fund Manager of Axis Small Cap Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹3,
-Axis Small Cap Fund Direct Growth is a Equity Mutual Fund Scheme launched by Axis Mutual Fund. This scheme was made available to investors on 03 Sep 2009. Mayank Hyanki is the Current Fund Manager of Axis Small Cap Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹3,65,899 Cr and the Latest NAV as of 03 Nov 2026 is ₹129.24.
+Axis Small Cap Fund Direct Growth is a Equity Mutual Fund Scheme launched by Axis Mutual Fund. This scheme was made available to investors on 03 Sep 2009. Mayank Hyanki is the Current Fund Manager of Axis Small Cap Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹3,65,899 Cr and the Latest NAV as of 04 Nov 2026 is ₹131.11.
 The Axis Small Cap Fund Direct Growth is rated Very High risk. Minimum SIP Investment is set to ₹100. Minimum Lumpsum Investment is ₹100. Exit load of 1% for investments beyond 10% if redeemed within 12 months
 ...Read more
 Investment Objective
@@ -903,16 +934,16 @@ Name
 Axis Small Cap Fund Direct IDCW
 Recently viewed
 Nippon India Small Cap Fund Direct Growth
-+13.18%
++13.61%
 3Y
 ICICI Prudential Technology Direct Plan Growth
-+8.31%
++8.21%
 3Y
 HDFC Small Cap Fund Direct Growth
-+9.26%
++9.46%
 3Y
 HDFC Mid Cap Fund Direct Growth
-+15.51%
++16.14%
 3Y
 FAQs
 How to Invest in Axis Small Cap Fund Direct Growth?
@@ -925,17 +956,17 @@ In order to invest, you will have to complete all the KYC formalities which are 
 Once you are done with that, you can start investing in Axis Small Cap Fund Direct Growth as SIP or lumpsum as per your
         investment objective and risk tolerance
 What kind of returns does Axis Small Cap Fund Direct Growth provide?
-The Axis Small Cap Fund Direct Growth has been there from 29 Nov 2013 and the average annual returns provided by this fund is 21.81% since its inception.
+The Axis Small Cap Fund Direct Growth has been there from 29 Nov 2013 and the average annual returns provided by this fund is 22.00% since its inception.
 How much expense ratio is charged by Axis Small Cap Fund Direct Growth?
 The term
 Expense Ratio
 used for Axis Small Cap Fund Direct Growth or any other mutual fund is the annual
         charges one needs to pay to the Mutual Fund company for managing your investments in that fund.
-The Expense Ratio of Axis Small Cap Fund Direct Growth is 0.70% as of 04 Nov 2026...
+The Expense Ratio of Axis Small Cap Fund Direct Growth is 0.70% as of 05 Nov 2026...
 What is the AUM of Axis Small Cap Fund Direct Growth?
 The AUM, short for
 Assets Under Management
-of Axis Small Cap Fund Direct Growth is ₹30,677.53Cr as of 04 Nov 2026.
+of Axis Small Cap Fund Direct Growth is ₹30,677.53Cr as of 05 Nov 2026.
 How to Redeem Axis Small Cap Fund Direct Growth?
 If you want to sell your Axis Small Cap Fund Direct Growth holdings, go to your holding on the app or
         web and simply click on it. You will get two options - redeem & invest more; click on redeem and enter your
@@ -948,7 +979,7 @@ Lumpsum
 investment of Axis Small Cap Fund Direct Growth based on
         your investment objective and risk tolerance.
 What is the NAV of Axis Small Cap Fund Direct Growth?
-The NAV of Axis Small Cap Fund Direct Growth is ₹129.24 as of 03 Nov 2026.
+The NAV of Axis Small Cap Fund Direct Growth is ₹131.11 as of 04 Nov 2026.
 What is the PE and PB ratio of Axis Small Cap Fund Direct Growth?
 The
 PE ratio
