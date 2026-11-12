@@ -23,7 +23,7 @@ Nippon India Small Cap Fund Direct Growth - NAV, Mutual Fund Performance & Portf
 8
 9
 .
-4
+8
 0
 1
 2
@@ -34,7 +34,7 @@ Nippon India Small Cap Fund Direct Growth - NAV, Mutual Fund Performance & Portf
 7
 8
 9
-6
+5
 0
 1
 2
@@ -47,16 +47,139 @@ Nippon India Small Cap Fund Direct Growth - NAV, Mutual Fund Performance & Portf
 9
 %
 3Y annualised
-+0.91%
++1.31%
 1D
+NAV by date, 3Y range
+Date
+NAV
+12 Nov 2023
+₹139.13
+30 Nov 2023
+₹145.64
+19 Dec 2023
+₹147.90
+07 Jan 2024
+₹154.30
+28 Jan 2024
+₹156.98
+13 Feb 2024
+₹156.12
+03 Mar 2024
+₹159.92
+20 Mar 2024
+₹152.78
+09 Apr 2024
+₹164.15
+29 Apr 2024
+₹171.30
+20 May 2024
+₹175.65
+05 Jun 2024
+₹174.56
+25 Jun 2024
+₹188.57
+11 Jul 2024
+₹195.35
+31 Jul 2024
+₹199.07
+19 Aug 2024
+₹196.55
+05 Sep 2024
+₹200.08
+23 Sep 2024
+₹204.40
+13 Oct 2024
+₹201.93
+29 Oct 2024
+₹194.33
+20 Nov 2024
+₹187.12
+08 Dec 2024
+₹202.42
+26 Dec 2024
+₹194.81
+13 Jan 2025
+₹181.72
+30 Jan 2025
+₹176.90
+17 Feb 2025
+₹160.78
+09 Mar 2025
+₹160.82
+26 Mar 2025
+₹167.66
+16 Apr 2025
+₹172.23
+06 May 2025
+₹172.29
+25 May 2025
+₹184.28
+10 Jun 2025
+₹191.10
+29 Jun 2025
+₹194.16
+15 Jul 2025
+₹196.27
+03 Aug 2025
+₹189.22
+20 Aug 2025
+₹190.00
+09 Sep 2025
+₹190.34
+25 Sep 2025
+₹186.59
+15 Oct 2025
+₹190.25
+05 Nov 2025
+₹189.86
+24 Nov 2025
+₹188.43
+10 Dec 2025
+₹184.58
+30 Dec 2025
+₹187.02
+18 Jan 2026
+₹179.74
+05 Feb 2026
+₹181.55
+23 Feb 2026
+₹182.78
+15 Mar 2026
+₹171.35
+01 Apr 2026
+₹169.94
+22 Apr 2026
+₹191.24
+11 May 2026
+₹191.96
+31 May 2026
+₹192.93
+16 Jun 2026
+₹200.59
+06 Jul 2026
+₹202.99
+22 Jul 2026
+₹200.06
+10 Aug 2026
+₹208.64
+26 Aug 2026
+₹210.49
+15 Sep 2026
+₹204.62
+04 Oct 2026
+₹202.89
+22 Oct 2026
+₹189.21
+10 Nov 2026
+₹203.58
 1M
 6M
 1Y
 3Y
 5Y
 All
-NAV: 09 Nov '26
-₹200.95
+NAV: 11 Nov '26
+₹203.58
 Min. for SIP
 ₹100
 Fund size (AUM)
@@ -71,470 +194,454 @@ Monthly investment
 ₹100
 1 year
 ₹1,200
-₹1,256
-+4.67%
+₹1,271
++5.92%
 3 years
 ₹3,600
-₹3,960
-+10.00%
+₹4,009
++11.36%
 5 years
 ₹6,000
-₹8,648
-+44.13%
+₹8,753
++45.88%
 10 years
 ₹12,000
-₹35,981
-+199.84%
-Holdings (259)
+₹36,406
++203.38%
+Holdings (263)
 Repo
 Unspecified
 Repo
-2.68%
-TD Power Systems Ltd
-Industrials
-Equity
-1.88%
-Bharat Heavy Electricals Ltd
-Industrials
-Equity
-1.77%
+2.43%
 HDFC Bank Ltd
 Financial
 Equity
-1.75%
+2.02%
+TD Power Systems Ltd
+Industrials
+Equity
+1.79%
+Bharat Heavy Electricals Ltd
+Industrials
+Equity
+1.74%
 Apar Industries Ltd
 Diversified
 Equity
-1.74%
-ACME Solar Holdings Ltd.
-Energy & Utilities
-Equity
-1.33%
+1.65%
 Karur Vysya Bank Ltd
 Financial
 Equity
-1.28%
+1.48%
 Sai Life Sciences Ltd.
 Healthcare
 Equity
-1.24%
-Sundram Fasteners Ltd
-Industrials
+1.33%
+ACME Solar Holdings Ltd.
+Energy & Utilities
 Equity
-1.20%
-State Bank of India
-Financial
-Equity
-1.19%
-Elantas Beck India Ltd
-Materials
-Equity
-1.16%
+1.29%
 Multi Commodity Exchange Of India Ltd
 Financial
 Equity
-1.14%
-Avalon Technologies Ltd.
+1.16%
+Sundram Fasteners Ltd
 Industrials
 Equity
-1.10%
-Zydus Wellness Ltd
-Consumer Staples
+1.15%
+Elantas Beck India Ltd
+Materials
 Equity
-1.09%
+1.13%
 Hindustan Unilever Ltd
 Consumer Staples
 Equity
-1.05%
-Kirloskar Brothers Ltd
-Industrials
-Equity
-0.99%
-Kirloskar Oil Engines Ltd
-Industrials
-Equity
-0.97%
-MTAR Technologies Ltd
-Industrials
-Equity
-0.92%
-Axis Bank Ltd
+1.10%
+Kotak Mahindra Bank Ltd
 Financial
 Equity
-0.91%
-Balrampur Chini Mills Ltd
+1.08%
+Zydus Wellness Ltd
 Consumer Staples
 Equity
-0.91%
-NLC India Ltd
-Energy & Utilities
+1.03%
+Avalon Technologies Ltd.
+Industrials
 Equity
-0.89%
-Whirlpool Of India Ltd
-Consumer Discretionary
-Equity
-0.88%
+1.03%
 Union Bank of India
 Financial
 Equity
-0.87%
+1.00%
+Axis Bank Ltd
+Financial
+Equity
+0.95%
+Kirloskar Brothers Ltd
+Industrials
+Equity
+0.94%
 Voltamp Transformers Ltd
 Industrials
 Equity
-0.83%
+0.86%
+Balrampur Chini Mills Ltd
+Consumer Staples
+Equity
+0.85%
+Whirlpool Of India Ltd
+Consumer Discretionary
+Equity
+0.85%
+MTAR Technologies Ltd
+Industrials
+Equity
+0.85%
+NLC India Ltd
+Energy & Utilities
+Equity
+0.82%
+Craftsman Automation Ltd
+Consumer Discretionary
+Equity
+0.80%
 Emami Ltd
 Consumer Staples
 Equity
 0.79%
-eClerx Services Ltd
-Technology
+Kirloskar Oil Engines Ltd
+Industrials
 Equity
-0.78%
-Craftsman Automation Ltd
-Consumer Discretionary
-Equity
-0.77%
+0.79%
 Aster DM Healthcare Ltd
 Healthcare
 Equity
-0.76%
+0.78%
 Ajanta Pharma Ltd
 Healthcare
 Equity
-0.75%
-Paradeep Phosphates Ltd
-Materials
-Equity
-0.75%
-Tube Investments Of India Ltd
-Consumer Discretionary
-Equity
-0.73%
-TBO Tek Ltd.
-Consumer Discretionary
-Equity
-0.71%
-Kirloskar Pneumatic Company Ltd
-Industrials
-Equity
-0.69%
-Radico Khaitan Ltd
-Consumer Staples
-Equity
-0.69%
-Kotak Mahindra Bank Ltd
-Financial
-Equity
-0.67%
-PNB Housing Finance Ltd
-Financial
-Equity
-0.66%
-Gland Pharma Ltd
-Healthcare
-Equity
-0.66%
-Central Mine Planning & Design Institute Ltd.
-Materials
-Equity
-0.65%
-Lumax Auto Technologies Ltd
-Consumer Discretionary
-Equity
-0.64%
-Carborundum Universal Ltd
-Materials
-Equity
-0.63%
-Kalpataru Power Transmission Ltd
-Industrials
-Equity
-0.62%
-Asahi India Glass Ltd
-Consumer Discretionary
-Equity
-0.60%
+0.76%
 Syngene International Ltd
 Healthcare
 Equity
-0.60%
-Dixon Technologies (India) Ltd
-Consumer Discretionary
+0.75%
+ITC Ltd
+Consumer Staples
 Equity
-0.60%
+0.74%
+Gland Pharma Ltd
+Healthcare
+Equity
+0.74%
 Omnitech Engineering Ltd.
 Industrials
+Equity
+0.74%
+eClerx Services Ltd
+Technology
+Equity
+0.70%
+Tube Investments Of India Ltd
+Consumer Discretionary
+Equity
+0.69%
+TBO Tek Ltd.
+Consumer Discretionary
+Equity
+0.68%
+Lumax Auto Technologies Ltd
+Consumer Discretionary
+Equity
+0.67%
+Paradeep Phosphates Ltd
+Materials
+Equity
+0.66%
+PNB Housing Finance Ltd
+Financial
+Equity
+0.65%
+Navin Fluorine International Ltd
+Materials
+Equity
+0.64%
+Kalpataru Power Transmission Ltd
+Industrials
+Equity
+0.63%
+PVR Ltd
+Consumer Discretionary
+Equity
+0.63%
+Radico Khaitan Ltd
+Consumer Staples
+Equity
+0.63%
+Asahi India Glass Ltd
+Consumer Discretionary
 Equity
 0.60%
 Escorts Kubota Ltd
 Industrials
 Equity
 0.59%
-Coal India Ltd
-Materials
-Equity
-0.58%
 Esab India Ltd
 Industrials
 Equity
 0.58%
-Navin Fluorine International Ltd
-Materials
+Kirloskar Pneumatic Company Ltd
+Industrials
 Equity
 0.58%
 Pfizer Ltd
 Healthcare
 Equity
 0.58%
-Adani Wilmar Ltd
-Consumer Staples
+HDFC Life Insurance Co Ltd
+Financial
 Equity
 0.58%
-BlueStone Jewellery and Lifestyle Ltd.
-Consumer Discretionary
+Central Mine Planning & Design Institute Ltd.
+Materials
 Equity
-0.57%
-Vardhman Textiles Ltd
-Consumer Discretionary
+0.58%
+Coal India Ltd
+Materials
+Equity
+0.56%
+Tata Consumer Products Ltd
+Consumer Staples
 Equity
 0.56%
 Krishna Institute Of Medical Sciences Ltd
 Healthcare
 Equity
 0.56%
-RateGain Travel Technologies Ltd
-Technology
-Equity
-0.56%
-HDFC Life Insurance Co Ltd
-Financial
-Equity
-0.55%
-Finolex Cables Ltd
-Industrials
-Equity
-0.54%
-Timken India Ltd
-Industrials
-Equity
-0.54%
-Orkla India Ltd.
+Adani Wilmar Ltd
 Consumer Staples
 Equity
-0.54%
-The Ramco Cements Ltd
-Materials
-Equity
-0.53%
-Mas Financial Services Ltd
-Financial
-Equity
-0.53%
+0.56%
 Delhivery Ltd
 Industrials
 Equity
-0.53%
-Aditya Birla Sun Life AMC Ltd
-Financial
-Equity
-0.52%
+0.56%
 Astrazeneca Pharma India Ltd
 Healthcare
 Equity
-0.51%
-Hindustan Aeronautics Ltd
-Industrials
-Equity
-0.50%
-PVR Ltd
-Consumer Discretionary
-Equity
-0.50%
-Fine Organic Industries Ltd
+0.55%
+Carborundum Universal Ltd
 Materials
 Equity
-0.50%
-Physicswallah Ltd.
-Consumer Staples
-Equity
-0.50%
-ISGEC Heavy Engineering Ltd
-Industrials
-Equity
-0.49%
+0.55%
 Sona BLW Precision Forgings Ltd
 Consumer Discretionary
 Equity
-0.49%
+0.55%
+RateGain Travel Technologies Ltd
+Technology
+Equity
+0.55%
+Orkla India Ltd.
+Consumer Staples
+Equity
+0.55%
+Physicswallah Ltd.
+Consumer Staples
+Equity
+0.55%
+Hindustan Aeronautics Ltd
+Industrials
+Equity
+0.54%
+ISGEC Heavy Engineering Ltd
+Industrials
+Equity
+0.54%
+Vardhman Textiles Ltd
+Consumer Discretionary
+Equity
+0.54%
+Dixon Technologies (India) Ltd
+Consumer Discretionary
+Equity
+0.53%
+Fine Organic Industries Ltd
+Materials
+Equity
+0.52%
 Procter & Gamble Health Ltd
 Healthcare
 Equity
-0.48%
-Affle (India) Ltd
+0.51%
+Timken India Ltd
 Industrials
 Equity
-0.48%
+0.51%
+BlueStone Jewellery and Lifestyle Ltd.
+Consumer Discretionary
+Equity
+0.51%
 KPR Mills Ltd
 Consumer Discretionary
 Equity
-0.47%
-Sansera Engineering Ltd
-Consumer Discretionary
+0.50%
+State Bank of India
+Financial
 Equity
-0.47%
+0.50%
+Poonawalla Fincorp Ltd
+Financial
+Equity
+0.49%
+Mas Financial Services Ltd
+Financial
+Equity
+0.49%
+The Ramco Cements Ltd
+Materials
+Equity
+0.48%
 Shadowfax Technologies Ltd.
 Industrials
 Equity
-0.47%
-Gokaldas Exports Ltd
-Consumer Discretionary
-Equity
-0.46%
-Astra Microwave Products Ltd
-Technology
+0.48%
+Finolex Cables Ltd
+Industrials
 Equity
 0.45%
 Grindwell Norton Ltd
 Materials
 Equity
 0.45%
-Bajaj Consumer Care Ltd
-Consumer Staples
+ICRA Ltd
+Industrials
 Equity
 0.45%
-RBL Bank Ltd
-Financial
-Equity
-0.45%
-Galaxy Surfactants Ltd
-Materials
-Equity
-0.45%
-Poonawalla Fincorp Ltd
-Financial
-Equity
-0.44%
 United Spirits Ltd
 Consumer Staples
 Equity
-0.44%
-Jubilant FoodWorks Ltd
+0.45%
+Orient Electric Ltd
+Consumer Discretionary
+Equity
+0.45%
+Affle (India) Ltd
+Industrials
+Equity
+0.45%
+Sansera Engineering Ltd
+Consumer Discretionary
+Equity
+0.45%
+Aditya Birla Sun Life AMC Ltd
+Financial
+Equity
+0.45%
+Gokaldas Exports Ltd
 Consumer Discretionary
 Equity
 0.44%
-Century Plyboards (India) Ltd
-Materials
+KFin Technologies Ltd
+Financial
+Equity
+0.44%
+Astra Microwave Products Ltd
+Technology
 Equity
 0.43%
 REC Ltd
 Financial
 Equity
 0.43%
-Tata Consumer Products Ltd
-Consumer Staples
+Jubilant FoodWorks Ltd
+Consumer Discretionary
 Equity
 0.43%
-ICRA Ltd
+Persistent Systems Ltd
+Technology
+Equity
+0.43%
+Galaxy Surfactants Ltd
+Materials
+Equity
+0.43%
+Blue Star Ltd
 Industrials
+Equity
+0.42%
+Century Plyboards (India) Ltd
+Materials
+Equity
+0.42%
+The Indian Hotels Company Ltd
+Consumer Discretionary
+Equity
+0.42%
+Central Depository Services (India) Ltd
+Financial
 Equity
 0.42%
 Sundaram Finance Holdings Ltd
 Financial
 Equity
 0.42%
-KFin Technologies Ltd
+Cyient Ltd
+Technology
+Equity
+0.41%
+RBL Bank Ltd
 Financial
 Equity
 0.41%
-Central Depository Services (India) Ltd
+Billionbrains Garage Ventures Ltd.
 Financial
 Equity
-0.40%
-Crompton Greaves Consumer Electricals Ltd
-Consumer Discretionary
-Equity
-0.39%
-Blue Star Ltd
-Industrials
-Equity
-0.38%
+0.41%
 City Union Bank Ltd
 Financial
 Equity
 0.38%
-Cyient Ltd
-Technology
-Equity
-0.38%
-Sudarshan Chemical Industries Ltd
-Materials
-Equity
-0.38%
-Healthcare Global Enterprises Ltd
-Healthcare
-Equity
-0.38%
-eMudhra Ltd
-Financial
-Equity
-0.38%
-Billionbrains Garage Ventures Ltd.
-Financial
-Equity
-0.38%
-Orient Electric Ltd
-Consumer Discretionary
-Equity
-0.37%
-Allied Blenders And Distillers Ltd.
-Consumer Staples
-Equity
-0.37%
-The Indian Hotels Company Ltd
-Consumer Discretionary
-Equity
-0.36%
-Ion Exchange (India) Ltd
-Industrials
-Equity
-0.36%
-Persistent Systems Ltd
-Technology
-Equity
-0.36%
-NTPC Green Energy Ltd.
-Energy & Utilities
-Equity
-0.36%
-Vedanta Aluminium Metal Ltd
-Materials
-Equity
-0.36%
-Deepak Nitrite Ltd
-Materials
-Equity
-0.35%
 Adani Ports and Special Economic Zone Ltd
 Industrials
 Equity
-0.35%
+0.38%
+Crompton Greaves Consumer Electricals Ltd
+Consumer Discretionary
+Equity
+0.38%
+Deepak Nitrite Ltd
+Materials
+Equity
+0.37%
+West Coast Paper Mills Ltd
+Materials
+Equity
+0.37%
+Bajaj Consumer Care Ltd
+Consumer Staples
+Equity
+0.36%
 Samvardhana Motherson International Ltd
 Consumer Discretionary
 Equity
-0.34%
+0.35%
 Tata Power Company Ltd
 Energy & Utilities
 Equity
-0.34%
-Thyrocare Technologies Ltd
+0.35%
+Healthcare Global Enterprises Ltd
 Healthcare
 Equity
-0.34%
-Pine Labs Ltd.
+0.35%
+Vindhya Telelinks Ltd
 Technology
 Equity
 0.34%
-Aarti Industries Ltd
+Allied Blenders And Distillers Ltd.
+Consumer Staples
+Equity
+0.34%
+Sudarshan Chemical Industries Ltd
 Materials
 Equity
 0.33%
@@ -542,47 +649,51 @@ Voltas Ltd
 Industrials
 Equity
 0.33%
-Juniper Green Energy Ltd.
+Metropolis Healthcare Ltd
+Healthcare
+Equity
+0.33%
+NTPC Green Energy Ltd.
 Energy & Utilities
 Equity
 0.33%
-Vindhya Telelinks Ltd
-Technology
+Vedanta Aluminium Metal Ltd
+Materials
+Equity
+0.33%
+Aarti Industries Ltd
+Materials
+Equity
+0.32%
+CARE Ratings Ltd
+Industrials
+Equity
+0.32%
+Ion Exchange (India) Ltd
+Industrials
 Equity
 0.32%
 Dr. Lal Pathlabs Ltd
 Healthcare
 Equity
 0.32%
-Ambuja Cements Ltd
-Materials
+Pine Labs Ltd.
+Technology
 Equity
-0.31%
-Linde India Ltd
-Materials
-Equity
-0.31%
-Godrej Agrovet Ltd
-Consumer Staples
-Equity
-0.31%
-West Coast Paper Mills Ltd
-Materials
-Equity
-0.31%
-Metropolis Healthcare Ltd
+0.32%
+Thyrocare Technologies Ltd
 Healthcare
 Equity
 0.31%
-NIIT Learning Systems Ltd
-Consumer Staples
+Juniper Green Energy Ltd.
+Energy & Utilities
 Equity
 0.31%
-Bharat Electronics Ltd
-Industrials
+Ambuja Cements Ltd
+Materials
 Equity
 0.30%
-CARE Ratings Ltd
+Bharat Electronics Ltd
 Industrials
 Equity
 0.30%
@@ -598,99 +709,103 @@ Torrent Pharmaceuticals Ltd
 Healthcare
 Equity
 0.30%
-Tejas Networks Ltd
-Technology
-Equity
-0.30%
-Clean Science And Technology Ltd
-Materials
-Equity
-0.30%
-Exide Industries Ltd
+Lemon Tree Hotels Ltd
 Consumer Discretionary
 Equity
-0.29%
-Kajaria Ceramics Ltd
-Industrials
-Equity
-0.29%
-Belrise Industries Ltd.
+0.30%
+Schloss Bangalore Ltd.
 Consumer Discretionary
 Equity
+0.30%
+JSW Cement Ltd.
+Materials
+Equity
+0.30%
+Linde India Ltd
+Materials
+Equity
 0.29%
-Birla Corporation Ltd
-Materials
+Godrej Agrovet Ltd
+Consumer Staples
 Equity
-0.28%
-INEOS Styrolution India Ltd
-Materials
-Equity
-0.28%
+0.29%
 TTK Prestige Ltd
 Consumer Discretionary
 Equity
-0.28%
+0.29%
+Clean Science And Technology Ltd
+Materials
+Equity
+0.29%
 Sapphire Foods India Ltd
 Consumer Discretionary
 Equity
 0.28%
-Data Patterns (India) Ltd
-Industrials
-Equity
-0.28%
-JSW Cement Ltd.
+Birla Corporation Ltd
 Materials
 Equity
-0.28%
-VST Tillers Tractors Ltd
+0.27%
+Kajaria Ceramics Ltd
 Industrials
 Equity
 0.27%
-Jindal Saw Ltd
+Tata Steel Ltd
 Materials
+Equity
+0.27%
+Bank Of Baroda
+Financial
 Equity
 0.26%
 LIC Housing Finance Ltd
 Financial
 Equity
 0.26%
-Schloss Bangalore Ltd.
+Tejas Networks Ltd
+Technology
+Equity
+0.26%
+Data Patterns (India) Ltd
+Industrials
+Equity
+0.26%
+Belrise Industries Ltd.
 Consumer Discretionary
 Equity
 0.26%
-Bayer CropScience Ltd
+Castrol India Ltd
 Materials
 Equity
 0.25%
-Castrol India Ltd
-Materials
+Exide Industries Ltd
+Consumer Discretionary
 Equity
 0.25%
 Genus Power Infrastructures Ltd
 Industrials
 Equity
 0.25%
-Jyothy Labs Ltd
+INEOS Styrolution India Ltd
+Materials
+Equity
+0.25%
+VST Tillers Tractors Ltd
+Industrials
+Equity
+0.25%
+NIIT Learning Systems Ltd
 Consumer Staples
 Equity
 0.25%
-Lemon Tree Hotels Ltd
-Consumer Discretionary
-Equity
-0.25%
-Century Textiles & Industries Ltd
+Bayer CropScience Ltd
 Materials
 Equity
 0.24%
-Mahindra CIE Automotive Ltd
-Consumer Discretionary
+Jyothy Labs Ltd
+Consumer Staples
 Equity
 0.24%
-Rites Ltd
-Industrials
-Equity
-0.24%
-Harsha Engineers International Ltd
+PG Electroplast Ltd
 Industrials
 Equity
 0.24%
@@ -698,248 +813,236 @@ Schaeffler India Ltd
 Industrials
 Equity
 0.23%
-Vedanta Ltd
-Materials
+Mahindra CIE Automotive Ltd
+Consumer Discretionary
 Equity
-0.22%
+0.23%
 Sun Pharmaceutical Industries Ltd
 Healthcare
 Equity
-0.22%
+0.23%
+Rites Ltd
+Industrials
+Equity
+0.23%
+eMudhra Ltd
+Financial
+Equity
+0.23%
 Premier Energies Ltd.
 Energy & Utilities
 Equity
+0.23%
+Century Textiles & Industries Ltd
+Materials
+Equity
 0.22%
-AFCONS INFRASTRUCTURE LIMITED EQ
+Jindal Saw Ltd
+Materials
+Equity
+0.22%
+Harsha Engineers International Ltd
 Industrials
 Equity
+0.22%
+Swiggy Ltd.
+Technology
+Equity
+0.22%
+Aditya Birla Lifestyle Brands Ltd
+Consumer Discretionary
+Equity
+0.22%
+FDC Ltd
+Healthcare
+Equity
 0.21%
-Chambal Fertilisers & Chemicals Ltd
+Vedanta Ltd
 Materials
 Equity
 0.21%
-Honda India Power Products Ltd
-Industrials
-Equity
-0.21%
-PG Electroplast Ltd
-Industrials
-Equity
-0.21%
-RHI Magnesita India Ltd
-Materials
-Equity
+Net Current Assets
+Unspecified
+Net Current Assets
 0.21%
 Narayana Hrudayalaya Ltd
 Healthcare
 Equity
 0.21%
+Sanofi India Ltd
+Healthcare
+Equity
+0.20%
+DLF Ltd
+Real Estate
+Equity
+0.20%
+Honda India Power Products Ltd
+Industrials
+Equity
+0.20%
+RHI Magnesita India Ltd
+Materials
+Equity
+0.20%
 Kaynes Technology India Ltd
 Industrials
 Equity
-0.21%
-Aditya Birla Lifestyle Brands Ltd
-Consumer Discretionary
+0.20%
+Chambal Fertilisers & Chemicals Ltd
+Materials
 Equity
-0.21%
+0.19%
 DEWAN HOUSING FINANCE CORP. LTD. EQ
 Financial
-Equity
-0.20%
-CESC Ltd
-Energy & Utilities
 Equity
 0.19%
 LG Balakrishnan & Brothers Ltd
 Industrials
 Equity
 0.19%
-Praj Industries Ltd
+Seamec Ltd
 Industrials
 Equity
 0.19%
-Raymond Ltd
-Consumer Discretionary
-Equity
-0.19%
-ZF Commercial Vehicle Control Systems India Ltd
-Consumer Discretionary
-Equity
-0.19%
-Texmaco Rail & Engineering Ltd
-Industrials
-Equity
-0.19%
-Aavas Financiers Ltd
-Financial
+KPIT Technologies Ltd
+Technology
 Equity
 0.19%
 Sumitomo Chemical India Ltd
 Materials
 Equity
 0.19%
-Jio Financial Services Limited
-Financial
-Equity
-0.19%
 Milky Mist Dairy Food Ltd.
 Consumer Staples
 Equity
 0.19%
-Sanofi India Ltd
-Healthcare
-Equity
-0.18%
-DLF Ltd
-Real Estate
-Equity
-0.18%
-FDC Ltd
-Healthcare
-Equity
-0.18%
-Lakshmi Machine Works Ltd
+AFCONS INFRASTRUCTURE LIMITED EQ
 Industrials
 Equity
 0.18%
-Seamec Ltd
-Industrials
+CESC Ltd
+Energy & Utilities
 Equity
 0.18%
-Vinati Organics Ltd
-Materials
-Equity
-0.18%
-Sandhar Technologies Ltd
+Raymond Ltd
 Consumer Discretionary
 Equity
 0.18%
-Indigo Paints Ltd
-Materials
+ZF Commercial Vehicle Control Systems India Ltd
+Consumer Discretionary
+Equity
+0.18%
+Aavas Financiers Ltd
+Financial
 Equity
 0.18%
 Landmark Cars Ltd
 Consumer Discretionary
 Equity
 0.18%
-Max Estates Ltd
-Real Estate
-Equity
-0.18%
 Brigade Enterprises Ltd
 Real Estate
 Equity
 0.17%
-Elgi Equipments Ltd
+Lakshmi Machine Works Ltd
 Industrials
 Equity
 0.17%
-Sharda Motor Industries Ltd
-Consumer Discretionary
-Equity
-0.17%
-KPIT Technologies Ltd
+Zensar Technologies Ltd
 Technology
 Equity
 0.17%
-Divgi TorqTransfer Systems Ltd.
-Consumer Discretionary
-Equity
-0.17%
-DOMS Industries Ltd.
-Industrials
-Equity
-0.17%
-Automotive Axles Ltd
-Consumer Discretionary
-Equity
-0.16%
-Tata Steel Ltd
+Indigo Paints Ltd
 Materials
 Equity
-0.16%
-CreditAccess Grameen Ltd
-Financial
+0.17%
+Max Estates Ltd
+Real Estate
+Equity
+0.17%
+Praj Industries Ltd
+Industrials
 Equity
 0.16%
-Bharat Dynamics Ltd
-Industrials
+Vinati Organics Ltd
+Materials
 Equity
 0.16%
 Computer Age Management Services Ltd
 Financial
 Equity
 0.16%
-UTI Asset Management Company Ltd
-Financial
-Equity
-0.16%
-Venus Pipes & Tubes Ltd
-Industrials
+Piramal Pharma Ltd
+Healthcare
 Equity
 0.16%
 Fujiyama Power Systems Ltd.
 Energy & Utilities
 Equity
 0.16%
+Automotive Axles Ltd
+Consumer Discretionary
+Equity
+0.15%
 Can Fin Homes Ltd
 Financial
 Equity
 0.15%
-Vesuvius India Ltd
+Elgi Equipments Ltd
 Industrials
 Equity
 0.15%
+Texmaco Rail & Engineering Ltd
+Industrials
+Equity
+0.15%
+Sharda Motor Industries Ltd
+Consumer Discretionary
+Equity
+0.15%
+Bharat Dynamics Ltd
+Industrials
+Equity
+0.15%
+DOMS Industries Ltd.
+Industrials
+Equity
+0.15%
+CreditAccess Grameen Ltd
+Financial
+Equity
+0.14%
 Just Dial Ltd
 Technology
 Equity
 0.14%
-Mishra Dhatu Nigam Ltd
-Materials
+Sandhar Technologies Ltd
+Consumer Discretionary
 Equity
 0.14%
-Cyient DLM Ltd.
+Venus Pipes & Tubes Ltd
 Industrials
 Equity
 0.14%
-Swiggy Ltd.
-Technology
+Divgi TorqTransfer Systems Ltd.
+Consumer Discretionary
 Equity
 0.14%
 Canara Robeco Asset Management Company Ltd.
 Financial
 Equity
 0.14%
-Zensar Technologies Ltd
-Technology
-Equity
-0.13%
-Rainbow Childrens Medicare Ltd
-Healthcare
-Equity
-0.13%
-Piramal Pharma Ltd
-Healthcare
+Vesuvius India Ltd
+Industrials
 Equity
 0.13%
 Bajel Projects Ltd
 Industrials
 Equity
 0.13%
-Sanofi Consumer Healthcare India Ltd
-Healthcare
-Equity
-0.13%
-Bajaj Electricals Ltd
-Consumer Discretionary
-Equity
-0.12%
-NIIT Ltd
+Birlasoft Ltd
 Technology
-Equity
-0.12%
-Triveni Turbine Ltd
-Industrials
 Equity
 0.12%
 Greenlam Industries Ltd
@@ -950,35 +1053,51 @@ G R Infraprojects Ltd
 Industrials
 Equity
 0.12%
-HG Infra Engineering Ltd
-Industrials
+Mishra Dhatu Nigam Ltd
+Materials
 Equity
 0.12%
-Equitas Small Finance Bank Ltd
+UTI Asset Management Company Ltd
 Financial
 Equity
 0.12%
-Rishabh Instruments Ltd.
+Rainbow Childrens Medicare Ltd
+Healthcare
+Equity
+0.12%
+Cyient DLM Ltd.
 Industrials
 Equity
 0.12%
-Inox Wind Ltd
+Protean eGov Technologies Ltd.
+Technology
+Equity
+0.12%
+Sanofi Consumer Healthcare India Ltd
+Healthcare
+Equity
+0.12%
+Bajaj Electricals Ltd
+Consumer Discretionary
+Equity
+0.11%
+Triveni Turbine Ltd
 Industrials
 Equity
 0.11%
-Saatvik Green Energy Ltd.
-Energy & Utilities
+HG Infra Engineering Ltd
+Industrials
 Equity
 0.11%
-Arvind Ltd
-Consumer Discretionary
+India Shelter Finance Corporation Ltd.
+Financial
 Equity
-0.10%
-Birlasoft Ltd
-Technology
+0.11%
+Rishabh Instruments Ltd.
+Industrials
 Equity
-0.10%
-Sonata Software Ltd
+0.11%
+NIIT Ltd
 Technology
 Equity
 0.10%
@@ -986,7 +1105,7 @@ ICICI Prudential Life Insurance Company Ltd
 Financial
 Equity
 0.10%
-India Shelter Finance Corporation Ltd.
+Equitas Small Finance Bank Ltd
 Financial
 Equity
 0.10%
@@ -994,44 +1113,48 @@ Campus Activewear Ltd
 Consumer Discretionary
 Equity
 0.10%
-Asian Paints Ltd
-Materials
+Aequs Ltd.
+Technology
+Equity
+0.10%
+Shiprocket Ltd.
+Technology
+Equity
+0.10%
+EAAA India Alternatives Ltd.
+Financial
+Equity
+0.10%
+Arvind Ltd
+Consumer Discretionary
 Equity
 0.09%
 Kirloskar Ferrous Industries Ltd
 Materials
 Equity
 0.09%
-Polyplex Corporation Ltd
-Materials
+Sonata Software Ltd
+Technology
+Equity
+0.09%
+Inox Wind Ltd
+Industrials
+Equity
+0.09%
+Sahajanand Medical Technologies Ltd.
+Healthcare
 Equity
 0.09%
 Urban Company Ltd.
 Consumer Staples
 Equity
 0.09%
-Shiprocket Ltd.
-Technology
+Saatvik Green Energy Ltd.
+Energy & Utilities
 Equity
 0.09%
-Hatsun Agro Products Ltd
-Consumer Staples
-Equity
-0.08%
-Indoco Remedies Ltd
-Healthcare
-Equity
-0.08%
-Subros Ltd
-Consumer Discretionary
-Equity
-0.08%
-Fineotex Chemical Ltd
+Polyplex Corporation Ltd
 Materials
-Equity
-0.08%
-Vedant Fashions Ltd
-Consumer Discretionary
 Equity
 0.08%
 Archean Chemical Industries Ltd
@@ -1042,46 +1165,58 @@ Sanathan Textiles Ltd.
 Consumer Discretionary
 Equity
 0.08%
-KEC International Ltd
-Diversified
+Hatsun Agro Products Ltd
+Consumer Staples
 Equity
 0.07%
-Protean eGov Technologies Ltd.
-Technology
+Indoco Remedies Ltd
+Healthcare
+Equity
+0.07%
+Subros Ltd
+Consumer Discretionary
 Equity
 0.07%
 JK Lakshmi Cement Ltd
 Materials
 Equity
 0.06%
+KEC International Ltd
+Diversified
+Equity
+0.06%
 Pokarna Ltd
 Materials
-Equity
-0.06%
-Go Fashion (India) Ltd
-Consumer Discretionary
-Equity
-0.06%
-Laser Power & Infra Ltd.
-Industrials
-Equity
-0.06%
-Augmont Enterprises Ltd.
-Technology
 Equity
 0.06%
 Karamtara Engineering Ltd.
 Energy & Utilities
 Equity
 0.06%
-Astec Lifesciences Ltd
-Materials
+Bonfiglioli Transmissions Ltd.
+Industrials
 Equity
-0.05%
+0.06%
 PNC Infratech Ltd
 Industrials
 Equity
 0.05%
+Go Fashion (India) Ltd
+Consumer Discretionary
+Equity
+0.05%
+Laser Power & Infra Ltd.
+Industrials
+Equity
+0.05%
+SFC Environmental Technologies Ltd.
+Industrials
+Equity
+0.05%
+Astec Lifesciences Ltd
+Materials
+Equity
+0.04%
 Stanley Lifestyles Ltd.
 Consumer Discretionary
 Equity
@@ -1094,34 +1229,38 @@ Studds Accessories Ltd.
 Consumer Discretionary
 Equity
 0.03%
-Raymond Lifestyle Ltd
-Consumer Discretionary
-Equity
-0.03%
 CMR Green Technologies Ltd.
 Materials
 Equity
 0.03%
-Lohia Corp Ltd.
-Materials
+Augmont Enterprises Ltd.
+Technology
 Equity
 0.03%
-Others Mrgn Money
-Unspecified
-Margin Money
-0.02%
 Kusumgar Ltd.
 Consumer Discretionary
 Equity
 0.02%
+Star Health & Allied Insurance Co. Ltd
+Financial
+Equity
+0.01%
+Raymond Lifestyle Ltd
+Consumer Discretionary
+Equity
+0.01%
+Lohia Corp Ltd.
+Materials
+Equity
+0.01%
+Others Mrgn Money
+Unspecified
+Margin Money
+0.00%
 Genus Prime Infrastructures Ltd
 Real Estate
 Equity
-0.01%
-Net Payables
-Unspecified
-Net Payables
--0.08%
+0.00%
 See All
 Min. for 1st investment
 --
@@ -1138,10 +1277,10 @@ Returns and rankings
 Annualised returns
 Absolute returns
 Fund returns
-+13.5%
-+16.9%
-+20.3%
-+23.3%
++13.8%
++17.1%
++20.7%
++23.4%
 Category average (Equity Small Cap)
 +14.3%
 +14.4%
@@ -1149,7 +1288,7 @@ Category average (Equity Small Cap)
 +19.9%
 Rank (Equity Small Cap)
 19
-4
+5
 1
 --
 Expense ratio
@@ -1180,24 +1319,24 @@ If you redeem within one year, returns are taxed at 20%. If you redeem after one
 Check past data
 Compare similar funds
 Bandhan Small Cap Fund Direct Growth
-+7.19%
-+22.37%
++9.25%
++22.73%
 35,203.84
 ITI Small Cap Fund Direct Growth
-+16.75%
-+21.65%
-3,666.32
++18.12%
++21.79%
+3,597.03
 Invesco India Small Cap Fund Direct Growth
-+16.48%
-+21.21%
-16,320.57
++19.07%
++21.50%
+16,319.58
 Sundaram Small Cap Fund Direct Growth
-+7.66%
-+14.38%
-4,106.99
++8.93%
++14.49%
+3,862.20
 Nippon India Small Cap Fund Direct Growth
-+6.05%
-+13.46%
++7.29%
++13.85%
 76,902.83
 Compare
 Fund management
@@ -1310,7 +1449,7 @@ Nippon India Active Momentum Fund Direct Growth
 Nippon India MNC Fund Direct Growth
 About Nippon India Small Cap Fund Direct Growth
 Nippon India Small Cap Fund Direct Growth is a Equity Mutual Fund Scheme launched by Nippon India Mutual Fund. This scheme was made available to investors on 29 Jun 1995. Samir Rachh is the Current Fund Manager of Nippon India Small Cap Fund Direct Growth fund. The fund currently has an Asset Under
-Nippon India Small Cap Fund Direct Growth is a Equity Mutual Fund Scheme launched by Nippon India Mutual Fund. This scheme was made available to investors on 29 Jun 1995. Samir Rachh is the Current Fund Manager of Nippon India Small Cap Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹7,62,869 Cr and the Latest NAV as of 09 Nov 2026 is ₹200.95.
+Nippon India Small Cap Fund Direct Growth is a Equity Mutual Fund Scheme launched by Nippon India Mutual Fund. This scheme was made available to investors on 29 Jun 1995. Samir Rachh is the Current Fund Manager of Nippon India Small Cap Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹7,62,869 Cr and the Latest NAV as of 11 Nov 2026 is ₹203.58.
 The Nippon India Small Cap Fund Direct Growth is rated Very High risk. Minimum SIP Investment is set to ₹100.  Exit load of 1% if redeemed within 1 year.
 ...Read more
 Investment Objective
@@ -1369,17 +1508,17 @@ In order to invest, you will have to complete all the KYC formalities which are 
 Once you are done with that, you can start investing in Nippon India Small Cap Fund Direct Growth as SIP or lumpsum as per your
         investment objective and risk tolerance
 What kind of returns does Nippon India Small Cap Fund Direct Growth provide?
-The Nippon India Small Cap Fund Direct Growth has been there from 01 Jan 2013 and the average annual returns provided by this fund is 23.31% since its inception.
+The Nippon India Small Cap Fund Direct Growth has been there from 01 Jan 2013 and the average annual returns provided by this fund is 23.41% since its inception.
 How much expense ratio is charged by Nippon India Small Cap Fund Direct Growth?
 The term
 Expense Ratio
 used for Nippon India Small Cap Fund Direct Growth or any other mutual fund is the annual
         charges one needs to pay to the Mutual Fund company for managing your investments in that fund.
-The Expense Ratio of Nippon India Small Cap Fund Direct Growth is 0.69% as of 11 Nov 2026...
+The Expense Ratio of Nippon India Small Cap Fund Direct Growth is 0.69% as of 12 Nov 2026...
 What is the AUM of Nippon India Small Cap Fund Direct Growth?
 The AUM, short for
 Assets Under Management
-of Nippon India Small Cap Fund Direct Growth is ₹76,902.83Cr as of 11 Nov 2026.
+of Nippon India Small Cap Fund Direct Growth is ₹76,902.83Cr as of 12 Nov 2026.
 How to Redeem Nippon India Small Cap Fund Direct Growth?
 If you want to sell your Nippon India Small Cap Fund Direct Growth holdings, go to your holding on the app or
         web and simply click on it. You will get two options - redeem & invest more; click on redeem and enter your
@@ -1392,7 +1531,7 @@ Lumpsum
 investment of Nippon India Small Cap Fund Direct Growth based on
         your investment objective and risk tolerance.
 What is the NAV of Nippon India Small Cap Fund Direct Growth?
-The NAV of Nippon India Small Cap Fund Direct Growth is ₹200.95 as of 09 Nov 2026.
+The NAV of Nippon India Small Cap Fund Direct Growth is ₹203.58 as of 11 Nov 2026.
 What is the PE and PB ratio of Nippon India Small Cap Fund Direct Growth?
 The
 PE ratio
