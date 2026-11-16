@@ -52,106 +52,106 @@ Axis Small Cap Fund Direct Growth - NAV, Mutual Fund Performance & Portfolio
 NAV by date, 3Y range
 Date
 NAV
-14 Nov 2023
-₹91.87
-04 Dec 2023
-₹95.55
-20 Dec 2023
-₹95.37
-09 Jan 2024
-₹97.86
-30 Jan 2024
-₹101.29
-15 Feb 2024
-₹101.16
-05 Mar 2024
-₹98.52
-26 Mar 2024
-₹97.80
-14 Apr 2024
-₹100.47
-05 May 2024
-₹102.89
+15 Nov 2023
+₹92.15
+05 Dec 2023
+₹95.22
+21 Dec 2023
+₹96.29
+10 Jan 2024
+₹98.38
+31 Jan 2024
+₹101.20
+18 Feb 2024
+₹101.37
+06 Mar 2024
+₹98.84
+27 Mar 2024
+₹98.14
+15 Apr 2024
+₹100.66
+06 May 2024
+₹101.71
 23 May 2024
 ₹106.17
-10 Jun 2024
-₹110.23
-30 Jun 2024
-₹116.13
+11 Jun 2024
+₹110.86
+01 Jul 2024
+₹116.11
 18 Jul 2024
 ₹114.59
-05 Aug 2024
-₹113.10
-25 Aug 2024
-₹120.66
+06 Aug 2024
+₹114.96
+26 Aug 2024
+₹121.04
 10 Sep 2024
 ₹122.14
-26 Sep 2024
-₹125.74
-16 Oct 2024
-₹124.27
+29 Sep 2024
+₹125.69
+17 Oct 2024
+₹123.94
 05 Nov 2024
 ₹122.38
-25 Nov 2024
-₹120.13
-11 Dec 2024
-₹125.95
+26 Nov 2024
+₹120.84
+12 Dec 2024
+₹125.62
 31 Dec 2024
 ₹123.61
-16 Jan 2025
-₹117.09
+19 Jan 2025
+₹117.81
 04 Feb 2025
 ₹115.30
 23 Feb 2025
 ₹105.24
-12 Mar 2025
-₹104.26
+16 Mar 2025
+₹104.53
 01 Apr 2025
 ₹110.37
 23 Apr 2025
 ₹114.81
-12 May 2025
-₹114.89
+13 May 2025
+₹116.14
 29 May 2025
 ₹120.02
-15 Jun 2025
-₹122.59
-02 Jul 2025
-₹125.71
+16 Jun 2025
+₹122.02
+03 Jul 2025
+₹125.87
 21 Jul 2025
 ₹126.20
-06 Aug 2025
-₹120.89
-27 Aug 2025
-₹120.05
+07 Aug 2025
+₹119.72
+28 Aug 2025
+₹119.62
 14 Sep 2025
 ₹124.04
-30 Sep 2025
-₹121.59
+02 Oct 2025
+₹122.21
 22 Oct 2025
 ₹124.04
 11 Nov 2025
 ₹125.17
-27 Nov 2025
+29 Nov 2025
 ₹123.14
 15 Dec 2025
 ₹120.66
 04 Jan 2026
 ₹123.33
-21 Jan 2026
-₹115.99
+22 Jan 2026
+₹113.99
 09 Feb 2026
 ₹121.42
 26 Feb 2026
 ₹118.52
-16 Mar 2026
-₹111.85
+17 Mar 2026
+₹113.78
 06 Apr 2026
 ₹111.98
 26 Apr 2026
 ₹123.06
-13 May 2026
-₹123.99
+14 May 2026
+₹123.88
 01 Jun 2026
 ₹123.92
 18 Jun 2026
@@ -970,11 +970,11 @@ The term
 Expense Ratio
 used for Axis Small Cap Fund Direct Growth or any other mutual fund is the annual
         charges one needs to pay to the Mutual Fund company for managing your investments in that fund.
-The Expense Ratio of Axis Small Cap Fund Direct Growth is 0.69% as of 15 Nov 2026...
+The Expense Ratio of Axis Small Cap Fund Direct Growth is 0.69% as of 16 Nov 2026...
 What is the AUM of Axis Small Cap Fund Direct Growth?
 The AUM, short for
 Assets Under Management
-of Axis Small Cap Fund Direct Growth is ₹29,231.15Cr as of 15 Nov 2026.
+of Axis Small Cap Fund Direct Growth is ₹29,231.15Cr as of 16 Nov 2026.
 How to Redeem Axis Small Cap Fund Direct Growth?
 If you want to sell your Axis Small Cap Fund Direct Growth holdings, go to your holding on the app or
         web and simply click on it. You will get two options - redeem & invest more; click on redeem and enter your

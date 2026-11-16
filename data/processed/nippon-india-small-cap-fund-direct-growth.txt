@@ -52,124 +52,124 @@ Nippon India Small Cap Fund Direct Growth - NAV, Mutual Fund Performance & Portf
 NAV by date, 3Y range
 Date
 NAV
-14 Nov 2023
-₹140.33
+15 Nov 2023
+₹140.61
 04 Dec 2023
 ₹147.78
-20 Dec 2023
-₹150.01
+21 Dec 2023
+₹151.21
 09 Jan 2024
 ₹155.03
-29 Jan 2024
-₹156.72
+30 Jan 2024
+₹159.03
 15 Feb 2024
 ₹158.63
-04 Mar 2024
-₹159.03
+05 Mar 2024
+₹156.78
 25 Mar 2024
 ₹154.79
-11 Apr 2024
-₹163.42
+14 Apr 2024
+₹161.46
 02 May 2024
 ₹171.07
-21 May 2024
-₹176.00
+22 May 2024
+₹176.45
 09 Jun 2024
 ₹180.02
-26 Jun 2024
-₹187.77
+27 Jun 2024
+₹188.63
 15 Jul 2024
 ₹196.16
-01 Aug 2024
-₹197.44
+04 Aug 2024
+₹190.33
 21 Aug 2024
 ₹199.02
-08 Sep 2024
-₹199.00
+09 Sep 2024
+₹201.01
 25 Sep 2024
 ₹202.57
-14 Oct 2024
-₹203.92
+15 Oct 2024
+₹204.10
 03 Nov 2024
 ₹195.70
-21 Nov 2024
-₹188.53
+24 Nov 2024
+₹191.53
 10 Dec 2024
 ₹203.84
-29 Dec 2024
-₹193.52
+30 Dec 2024
+₹194.86
 15 Jan 2025
 ₹184.85
-02 Feb 2025
-₹174.60
+03 Feb 2025
+₹176.17
 19 Feb 2025
 ₹165.01
-10 Mar 2025
-₹160.34
+11 Mar 2025
+₹160.08
 30 Mar 2025
 ₹167.53
-20 Apr 2025
-₹174.81
+21 Apr 2025
+₹176.61
 08 May 2025
 ₹169.88
-26 May 2025
-₹184.20
+27 May 2025
+₹184.57
 12 Jun 2025
 ₹188.00
-30 Jun 2025
-₹194.05
+01 Jul 2025
+₹193.59
 17 Jul 2025
 ₹195.09
-04 Aug 2025
-₹188.62
+05 Aug 2025
+₹187.10
 24 Aug 2025
 ₹189.39
-10 Sep 2025
-₹190.36
+11 Sep 2025
+₹190.87
 29 Sep 2025
 ₹186.05
-16 Oct 2025
-₹190.21
+19 Oct 2025
+₹190.81
 09 Nov 2025
 ₹189.77
-25 Nov 2025
-₹190.31
+26 Nov 2025
+₹189.71
 14 Dec 2025
 ₹186.40
-31 Dec 2025
-₹186.91
+01 Jan 2026
+₹188.27
 20 Jan 2026
 ₹174.77
-08 Feb 2026
-₹185.21
+09 Feb 2026
+₹186.60
 25 Feb 2026
 ₹183.76
-16 Mar 2026
-₹172.40
+17 Mar 2026
+₹174.77
 06 Apr 2026
 ₹172.09
-23 Apr 2026
-₹189.36
+26 Apr 2026
+₹192.72
 13 May 2026
 ₹193.49
-01 Jun 2026
-₹193.94
+02 Jun 2026
+₹193.76
 18 Jun 2026
 ₹203.07
-07 Jul 2026
-₹199.26
+08 Jul 2026
+₹202.31
 26 Jul 2026
 ₹202.32
-11 Aug 2026
-₹209.42
+12 Aug 2026
+₹209.37
 30 Aug 2026
 ₹210.66
-16 Sep 2026
-₹206.47
+17 Sep 2026
+₹209.36
 06 Oct 2026
 ₹205.71
-25 Oct 2026
-₹190.99
+26 Oct 2026
+₹193.83
 12 Nov 2026
 ₹204.24
 1M
@@ -1514,11 +1514,11 @@ The term
 Expense Ratio
 used for Nippon India Small Cap Fund Direct Growth or any other mutual fund is the annual
         charges one needs to pay to the Mutual Fund company for managing your investments in that fund.
-The Expense Ratio of Nippon India Small Cap Fund Direct Growth is 0.68% as of 15 Nov 2026...
+The Expense Ratio of Nippon India Small Cap Fund Direct Growth is 0.68% as of 16 Nov 2026...
 What is the AUM of Nippon India Small Cap Fund Direct Growth?
 The AUM, short for
 Assets Under Management
-of Nippon India Small Cap Fund Direct Growth is ₹76,902.83Cr as of 15 Nov 2026.
+of Nippon India Small Cap Fund Direct Growth is ₹76,902.83Cr as of 16 Nov 2026.
 How to Redeem Nippon India Small Cap Fund Direct Growth?
 If you want to sell your Nippon India Small Cap Fund Direct Growth holdings, go to your holding on the app or
         web and simply click on it. You will get two options - redeem & invest more; click on redeem and enter your
